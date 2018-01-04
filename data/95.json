@@ -1,0 +1,37 @@
+{
+	"id": "12_06_2017_G1",
+	"cop": "Dave Dob",
+	"medic": "Rollo",
+	"vigilante": "Ryan",
+	"vanilla_town": [
+		"Mavelost",
+		"Erik",
+		"Guy",
+		"Colin",
+		"Captain",
+		"Striker",
+		"Peeperz",
+		"Double A",
+		"Jordan"
+	],
+	"mafia": [
+		"Pope",
+		"Steve",
+		"Ryuzilla"
+	],
+	"n0": [
+		"Double A",
+		"Guy"
+	],
+	"n0_save": "Pope",
+	"shot": "",
+	"lynched": [
+		"Colin",
+		"Pope",
+		"Mavelost",
+		"Erik"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

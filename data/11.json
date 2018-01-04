@@ -1,0 +1,37 @@
+{
+	"id": "02_08_2017_G1",
+	"cop": "Wiggles",
+	"medic": "Cron",
+	"vigilante": "Nydus",
+	"vanilla_town": [
+		"Trump",
+		"Guy",
+		"Joey",
+		"Erik",
+		"Templar",
+		"Storrzerg",
+		"Jan",
+		"Ryuzilla",
+		"Fonti"
+	],
+	"mafia": [
+		"Noah",
+		"Slip",
+		"Pope"
+	],
+	"n0": [
+		"Wiggles",
+		"Nydus"
+	],
+	"n0_save": "Nydus",
+	"shot": "Pope",
+	"lynched": [
+		"Joey",
+		"Storrzerg",
+		"Erik",
+		"Trump"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

@@ -1,0 +1,39 @@
+{
+	"id": "08_09_2017_G2",
+	"cop": "Kny",
+	"medic": "Guy",
+	"vigilante": "Rollo",
+	"vanilla_town": [
+		"Gilbert",
+		"Ryuzilla",
+		"Niltak",
+		"Peeperz",
+		"Siggywiggy",
+		"Watacolter",
+		"Pope",
+		"Ryan",
+		"David"
+	],
+	"mafia": [
+		"Wes",
+		"Dave Dob",
+		"Noah"
+	],
+	"n0": [
+		"Kny",
+		"Gilbert"
+	],
+	"n0_save": "Rollo",
+	"shot": "Dave Dob",
+	"lynched": [
+		"Wes",
+		"Peeperz",
+		"Ryan",
+		"Watacolter",
+		"David",
+		"Noah"
+	],
+	"f3_win": [ "Ryuzilla", "Siggywiggy" ],
+	"f3_loss": [ "Noah" ],
+	"winner": "Town"
+}

@@ -1,0 +1,38 @@
+{
+	"id": "06_07_2017_G2",
+	"cop": "Guy",
+	"medic": "Dave Dob",
+	"vigilante": "Siggywiggy",
+	"vanilla_town": [
+		"David",
+		"Pat",
+		"Ryuzilla",
+		"dLGN",
+		"Turtle",
+		"5",
+		"Rollo",
+		"Steve",
+		"Zocide"
+	],
+	"mafia": [
+		"Wiggles",
+		"Cron",
+		"Pope"
+	],
+	"n0": [
+		"David",
+		"Pat"
+	],
+	"n0_save": "Turtle",
+	"shot": "player",
+	"lynched": [
+		"Cron",
+		"Wiggles",
+		"Pope",
+		"Zocide",
+		"Turtle"
+	],
+	"f3_win": [ "Rollo", "5" ],
+	"f3_loss": [ "Pope" ],
+	"winner": "Town"
+}

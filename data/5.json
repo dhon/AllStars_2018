@@ -1,0 +1,37 @@
+{
+	"id": "01_18_2017_G1",
+	"cop": "Jan",
+	"medic": "Wiggles",
+	"vigilante": "Fonti",
+	"vanilla_town": [
+		"Nydus",
+		"Slip",
+		"Ryuzilla",
+		"Cron",
+		"Double A",
+		"Boone",
+		"Pope",
+		"Kny",
+		"Joey"
+	],
+	"mafia": [
+		"Steve",
+		"Templar",
+		"Mal"
+	],
+	"n0": [
+		"Boone",
+		"Fonti"
+	],
+	"n0_save": "Cron",
+	"shot": "",
+	"lynched": [
+		"Templar",
+		"Steve",
+		"Mal",
+		"Joey"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

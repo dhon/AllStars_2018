@@ -1,0 +1,37 @@
+{
+	"id": "08_23_2017_G2",
+	"cop": "Ryuzilla",
+	"medic": "Jan",
+	"vigilante": "Striker",
+	"vanilla_town": [
+		"Siggywiggy",
+		"Rollo",
+		"Dave Dob",
+		"Pope",
+		"Wes",
+		"CJ",
+		"Ryan",
+		"Colin",
+		"Kny"
+	],
+	"mafia": [
+		"Fonti",
+		"David",
+		"Wiggles"
+	],
+	"n0": [
+		"Colin",
+		"Kny"
+	],
+	"n0_save": "David",
+	"shot": "Ryan",
+	"lynched": [
+		"Fonti",
+		"Siggywiggy",
+		"CJ",
+		"Rollo"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "11_15_2017_G2",
+	"cop": "Peeperz",
+	"medic": "Guy",
+	"vigilante": "Colin",
+	"vanilla_town": [
+		"Rollo",
+		"dLGN",
+		"Pat",
+		"Tunak",
+		"Striker",
+		"David",
+		"CJ",
+		"5",
+		"Younguns"
+	],
+	"mafia": [
+		"Siggywiggy",
+		"Ryuzilla",
+		"Pope"
+	],
+	"n0": [
+		"Colin",
+		"Younguns"
+	],
+	"n0_save": "Peeperz",
+	"shot": "",
+	"lynched": [
+		"David",
+		"Tunak",
+		"Pat"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

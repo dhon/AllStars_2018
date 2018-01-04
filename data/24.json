@@ -1,0 +1,34 @@
+{
+	"id": "03_22_2017_G2",
+	"cop": "Optic",
+	"medic": "Dave Dob",
+	"vigilante": "Kny",
+	"vanilla_town": [
+		"Garrinski",
+		"5",
+		"Ryuzilla",
+		"Nydus",
+		"dLGN",
+		"Rollo",
+		"Mal",
+		"Ben",
+		"Tunak"
+	],
+	"mafia": [
+		"Banks",
+		"Steve",
+		"Noah"
+	],
+	"n0": [
+		"Nydus",
+		"Kny"
+	],
+	"n0_save": "Mal",
+	"shot": "",
+	"lynched": [
+		"Garrinski"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

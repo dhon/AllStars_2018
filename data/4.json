@@ -1,0 +1,37 @@
+{
+	"id": "01_11_2017_G2",
+	"cop": "Slip",
+	"medic": "Guy",
+	"vigilante": "Striker",
+	"vanilla_town": [
+		"Fonti",
+		"Ryuzilla",
+		"dLGN",
+		"Dave Dob",
+		"Jan",
+		"Jaleb",
+		"Ocane",
+		"Wiggles",
+		"Trump"
+	],
+	"mafia": [
+		"Optic",
+		"Noah",
+		"Ryan"
+	],
+	"n0": [
+		"Jaleb",
+		"Dave Dob"
+	],
+	"n0_save": "Noah",
+	"shot": "Fonti",
+	"lynched": [
+		"Optic",
+		"Noah",
+		"Ryan",
+		"Ocane"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

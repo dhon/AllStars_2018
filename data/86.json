@@ -1,0 +1,36 @@
+{
+	"id": "10_25_2017_G2",
+	"cop": "Duke",
+	"medic": "Ryuzilla",
+	"vigilante": "Colin",
+	"vanilla_town": [
+		"Steve",
+		"Wiggles",
+		"Siggywiggy",
+		"Striker",
+		"dLGN",
+		"Rollo",
+		"Captain",
+		"Pope",
+		"Andy"
+	],
+	"mafia": [
+		"Jordan",
+		"Dave Dob",
+		"BaehreX"
+	],
+	"n0": [
+		"Striker",
+		"dLGN"
+	],
+	"n0_save": "dLGN",
+	"shot": "Wiggles",
+	"lynched": [
+		"Dave Dob",
+		"BaehreX",
+		"Jordan"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "09_27_2017_G1",
+	"cop": "5",
+	"medic": "Striker",
+	"vigilante": "Ramza",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Gnome",
+		"Rollo",
+		"Freak",
+		"Pat",
+		"Storrzerg",
+		"Slip",
+		"Joey",
+		"Kny"
+	],
+	"mafia": [
+		"Siggywiggy",
+		"Cron",
+		"Pope"
+	],
+	"n0": [
+		"Ramza",
+		"5"
+	],
+	"n0_save": "Siggywiggy",
+	"shot": "",
+	"lynched": [
+		"Slip",
+		"Rollo",
+		"Storrzerg"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "11_01_2017_G2",
+	"cop": "Ryan",
+	"medic": "Ocane",
+	"vigilante": "Siggywiggy",
+	"vanilla_town": [
+		"CJ",
+		"Dave Dob",
+		"Jojo",
+		"Steve",
+		"Duke",
+		"Ryuzilla",
+		"Colin",
+		"Striker",
+		"Mal"
+	],
+	"mafia": [
+		"Captain",
+		"Pope",
+		"Pozzai"
+	],
+	"n0": [
+		"Ryuzilla",
+		"Ocane"
+	],
+	"n0_save": "Pope",
+	"shot": "",
+	"lynched": [
+		"Duke",
+		"CJ",
+		"Jojo"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

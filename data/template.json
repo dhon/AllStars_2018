@@ -1,0 +1,39 @@
+{
+	"id": "01_04_2017_G1",
+	"cop": "player",
+	"medic": "player",
+	"vigilante": "player",
+	"vanilla_town": [
+		"player",
+		"player",
+		"player",
+		"player",
+		"player",
+		"player",
+		"player",
+		"player",
+		"player"
+	],
+	"mafia": [
+		"player",
+		"player",
+		"player"
+	],
+	"n0": [
+		"player",
+		"player"
+	],
+	"n0_save": "player",
+	"shot": "player",
+	"lynched": [
+		"player",
+		"player",
+		"player",
+		"player",
+		"player",
+		"player"
+	],
+	"f3_win": [ "player", "player" ],
+	"f3_loss": [ "player", "player" ],
+	"winner": "team"
+}

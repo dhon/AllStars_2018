@@ -1,0 +1,37 @@
+{
+	"id": "09_13_2017_G2",
+	"cop": "Fonti",
+	"medic": "Siggywiggy",
+	"vigilante": "Striker",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Owner",
+		"Colin",
+		"BaehreX",
+		"Dave Dob",
+		"Gnome",
+		"Jan",
+		"Rollo",
+		"Adam"
+	],
+	"mafia": [
+		"Captain",
+		"Watacolter",
+		"Andy"
+	],
+	"n0": [
+		"Striker",
+		"Siggywiggy"
+	],
+	"n0_save": "Captain",
+	"shot": "",
+	"lynched": [
+		"Gnome",
+		"Watacolter",
+		"Andy",
+		"Captain"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

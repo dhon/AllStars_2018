@@ -1,0 +1,35 @@
+{
+	"id": "08_03_2017_G1",
+	"cop": "Double A",
+	"medic": "Colin",
+	"vigilante": "Younguns",
+	"vanilla_town": [
+		"Rollo",
+		"Duke",
+		"Fonti",
+		"Ryuzilla",
+		"Niltak",
+		"Pope",
+		"Striker",
+		"Jan",
+		"Guy"
+	],
+	"mafia": [
+		"Kny",
+		"Greg",
+		"Joey"
+	],
+	"n0": [
+		"Double A",
+		"Colin"
+	],
+	"n0_save": "Duke",
+	"shot": "Guy",
+	"lynched": [
+		"Niltak",
+		"Jan"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

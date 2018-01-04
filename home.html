@@ -1,0 +1,59 @@
+<h5>Click a name to see their n0 kills.</h5>
+<table class="table table-striped table-bordered">
+	<tr>
+		<th>Name</th>
+		<th>Gs</th>
+		<th>% Tn</th>
+		<th>% PR</th>
+		<th>W%</th>
+		<th>Tn W%</th>
+		<th>Mf W%</th>
+		<th>n0</th>
+		<th>n0 S</th>
+		<th>Mf Ly</th>
+		<th>VT Ly</th>
+		<th>PR Ly</th>
+		<th>Mf S</th>
+		<th>VT S</th>
+		<th>PR S</th>
+		<th>Vig H</th>
+		<th>Vig M</th>
+		<th>F3 W</th>
+		<th>F3 L</th>
+		<th>Cop</th>
+		<th>Med</th>
+		<th>Vig</th>
+		<th>Tn W</th>
+		<th>Tn L</th>
+		<th>Mf W</th>
+		<th>Mf L</th>
+	</tr>
+	<tr ng-repeat="player in stats">
+		<th ui-sref="kills({id: player.name})">{{player.name}}</th>
+		<th>{{player.played}}</th>
+		<th>{{player.pTown}}</th>
+		<th>{{player.pPR}}</th>
+		<th>{{player.pWin}}</th>
+		<th>{{player.pTownWin}}</th>
+		<th>{{player.pMafiaWin}}</th>
+		<th>{{player.n0}}</th>
+		<th>{{player.n0_save}}</th>
+		<th>{{player.lynch_mafia}}</th>
+		<th>{{player.lynch_vt}}</th>
+		<th>{{player.lynch_pr}}</th>
+		<th>{{player.shot_mafia}}</th>
+		<th>{{player.shot_vt}}</th>
+		<th>{{player.shot_pr}}</th>
+		<th>{{player.vigi_hit}}</th>
+		<th>{{player.vigi_miss}}</th>
+		<th>{{player.f3_win}}</th>
+		<th>{{player.f3_loss}}</th>
+		<th>{{player.roll_cop}}</th>
+		<th>{{player.roll_medic}}</th>
+		<th>{{player.roll_vigi}}</th>
+		<th>{{player.win_town}}</th>
+		<th>{{player.loss_town}}</th>
+		<th>{{player.win_mafia}}</th>
+		<th>{{player.loss_mafia}}</th>
+	</tr>
+</table>

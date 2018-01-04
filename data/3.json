@@ -1,0 +1,39 @@
+{
+	"id": "01_11_2017_G1",
+	"cop": "Joey",
+	"medic": "Freak",
+	"vigilante": "Nydus",
+	"vanilla_town": [
+		"Garrinski",
+		"Wiggles",
+		"Trump",
+		"Noah",
+		"Jan",
+		"Striker",
+		"Templar",
+		"dLGN",
+		"Fonti"
+	],
+	"mafia": [
+		"Ryuzilla",
+		"FattDamon",
+		"Ocane"
+	],
+	"n0": [
+		"Wiggles",
+		"Templar"
+	],
+	"n0_save": "Ocane",
+	"shot": "Trump",
+	"lynched": [
+		"FattDamon",
+		"Ryuzilla",
+		"Jan",
+		"dLGN",
+		"Garrinski",
+		"Striker"
+	],
+	"f3_win": [ "Ocane" ],
+	"f3_loss": [ "Striker", "Noah" ],
+	"winner": "Mafia"
+}

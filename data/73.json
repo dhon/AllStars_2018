@@ -1,0 +1,36 @@
+{
+	"id": "09_13_2017_G1",
+	"cop": "Duke",
+	"medic": "Andy",
+	"vigilante": "Jan",
+	"vanilla_town": [
+		"Ryan",
+		"Onionknight",
+		"Ramza",
+		"EffinNipples",
+		"Striker",
+		"Guy",
+		"Ryuzilla",
+		"Kub Kub",
+		"Captain"
+	],
+	"mafia": [
+		"Colin",
+		"Fonti",
+		"Siggywiggy"
+	],
+	"n0": [
+		"Onionknight",
+		"Ryuzilla"
+	],
+	"n0_save": "Ryuzilla",
+	"shot": "Colin",
+	"lynched": [
+		"Kub Kub",
+		"Fonti",
+		"Siggywiggy"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

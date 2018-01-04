@@ -1,0 +1,37 @@
+{
+	"id": "01_04_2017_G1",
+	"cop": "Templar",
+	"medic": "Joey",
+	"vigilante": "Noah",
+	"vanilla_town": [
+		"Boone",
+		"Cron",
+		"dLGN",
+		"Jan",
+		"Ocane",
+		"Ryuzilla",
+		"Steve",
+		"Trump",
+		"Wiggles"
+	],
+	"mafia": [
+		"Striker",
+		"Freak",
+		"Slip"
+	],
+	"n0": [
+		"dLGN",
+		"Ryuzilla"
+	],
+	"n0_save": "Noah",
+	"shot": "Freak",
+	"lynched": [
+		"Slip",
+		"Jan",
+		"Boone",
+		"Cron"
+	],
+	"f3_win": [ "Striker" ],
+	"f3_loss": [ "Ocane", "Steve" ],
+	"winner": "Mafia"
+}

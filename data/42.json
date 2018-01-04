@@ -1,0 +1,37 @@
+{
+	"id": "05_24_2017_G2",
+	"cop": "Wes",
+	"medic": "5",
+	"vigilante": "Freak",
+	"vanilla_town": [
+		"Fletch",
+		"Ryuzilla",
+		"Noah",
+		"Younguns",
+		"Dave Dob",
+		"Garrinski",
+		"Turtle",
+		"Rollo",
+		"Stoli"
+	],
+	"mafia": [
+		"Pope",
+		"Kny",
+		"Danny"
+	],
+	"n0": [
+		"Ryuzilla",
+		"Ryuzilla"
+	],
+	"n0_save": "Ryuzilla",
+	"shot": "Fletch",
+	"lynched": [
+		"Pope",
+		"Kny",
+		"Danny",
+		"Younguns"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

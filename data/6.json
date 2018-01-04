@@ -1,0 +1,37 @@
+{
+	"id": "01_18_2017_G2",
+	"cop": "Double A",
+	"medic": "Mal",
+	"vigilante": "Ryuzilla",
+	"vanilla_town": [
+		"Turtle",
+		"Kny",
+		"Nydus",
+		"Wiggles",
+		"Jan",
+		"Fonti",
+		"Freak",
+		"Boone",
+		"Bonk"
+	],
+	"mafia": [
+		"Steve",
+		"5",
+		"Cron"
+	],
+	"n0": [
+		"Kny",
+		"Wiggles"
+	],
+	"n0_save": "Steve",
+	"shot": "Turtle",
+	"lynched": [
+		"5",
+		"Cron",
+		"Boone",
+		"Bonk"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

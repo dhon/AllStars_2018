@@ -1,0 +1,35 @@
+{
+	"id": "05_03_2017_G2",
+	"cop": "Rollo",
+	"medic": "Ryuzilla",
+	"vigilante": "Fletch",
+	"vanilla_town": [
+		"Guy",
+		"dLGN",
+		"David",
+		"Danny",
+		"Tana",
+		"Ryan",
+		"Trump",
+		"Jan",
+		"Noah"
+	],
+	"mafia": [
+		"Turtle",
+		"Mattchew",
+		"Pope"
+	],
+	"n0": [
+		"Danny",
+		"Guy"
+	],
+	"n0_save": "Guy",
+	"shot": "Turtle",
+	"lynched": [
+		"Mattchew",
+		"Pope"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

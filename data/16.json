@@ -1,0 +1,37 @@
+{
+	"id": "02_22_2017_G2",
+	"cop": "Wiggles",
+	"medic": "Trump",
+	"vigilante": "Striker",
+	"vanilla_town": [
+		"Jan",
+		"5",
+		"Pope",
+		"Noah",
+		"Rollo",
+		"Fonti",
+		"Jaleb",
+		"Freak",
+		"Kny"
+	],
+	"mafia": [
+		"Tana",
+		"Ryuzilla",
+		"Double A"
+	],
+	"n0": [
+		"Noah",
+		"Pope"
+	],
+	"n0_save": "Wiggles",
+	"shot": "Kny",
+	"lynched": [
+		"Tana",
+		"Rollo",
+		"5",
+		"Jaleb"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

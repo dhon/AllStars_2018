@@ -1,0 +1,36 @@
+{
+	"id": "06_14_2017_G2",
+	"cop": "5",
+	"medic": "Ryuzilla",
+	"vigilante": "Jan",
+	"vanilla_town": [
+		"Duke",
+		"Wes",
+		"Dave Dob",
+		"Fletch",
+		"Rollo",
+		"Danimal",
+		"Zocide",
+		"Turtle",
+		"Steve"
+	],
+	"mafia": [
+		"Pat",
+		"Pope",
+		"Striker"
+	],
+	"n0": [
+		"Jan",
+		"Ryuzilla"
+	],
+	"n0_save": "Rollo",
+	"shot": "",
+	"lynched": [
+		"Pat",
+		"Pope",
+		"Rollo"
+	],
+	"f3_win": [ "Striker" ],
+	"f3_loss": [ "Zocide", "Steve" ],
+	"winner": "Mafia"
+}

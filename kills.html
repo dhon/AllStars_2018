@@ -1,0 +1,15 @@
+<h5>{{id}}'s n0 Kills <a href="#/home" ui-sref="home">Home</a></h5>
+<table class="table table-striped table-bordered">
+	<tr>
+		<th>Name</th>
+		<th>% Killed</th>
+		<th>Killed</th>
+		<th>Total</th>
+	</tr>
+	<tr ng-repeat="player in kills">
+		<th>{{player.name}}</th>
+		<th>{{player.pKilled}}</th>
+		<th>{{player.killed}}</th>
+		<th>{{player.total}}</th>
+	</tr>
+</table>

@@ -1,0 +1,37 @@
+{
+	"id": "02_15_2017_G2",
+	"cop": "Slip",
+	"medic": "Banks",
+	"vigilante": "Rollo",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Guy",
+		"Jan",
+		"Striker",
+		"5",
+		"Nydus",
+		"Double A",
+		"Wiggles",
+		"Mattchew"
+	],
+	"mafia": [
+		"Trump",
+		"Captain",
+		"Freak"
+	],
+	"n0": [
+		"Slip",
+		"5"
+	],
+	"n0_save": "Ryuzilla",
+	"shot": "Mattchew",
+	"lynched": [
+		"Captain",
+		"Freak",
+		"Trump",
+		"Jan"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

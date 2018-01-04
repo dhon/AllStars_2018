@@ -1,0 +1,35 @@
+{
+	"id": "03_15_2017_G1",
+	"cop": "5",
+	"medic": "Joey",
+	"vigilante": "dLGN",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Nydus",
+		"Greg",
+		"Double A",
+		"Boone",
+		"Steve",
+		"Erik",
+		"Kny",
+		"Captain"
+	],
+	"mafia": [
+		"Younguns",
+		"Ramza",
+		"Pope"
+	],
+	"n0": [
+		"Joey",
+		"5"
+	],
+	"n0_save": "Double A",
+	"shot": "Younguns",
+	"lynched": [
+		"Greg",
+		"Steve"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

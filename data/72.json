@@ -1,0 +1,36 @@
+{
+	"id": "09_06_2017_G2",
+	"cop": "Kny",
+	"medic": "Ryuzilla",
+	"vigilante": "Gnome",
+	"vanilla_town": [
+		"Fonti",
+		"Jan",
+		"Siggywiggy",
+		"Striker",
+		"Rollo",
+		"Dave Dob",
+		"Watacolter",
+		"Noah",
+		"5"
+	],
+	"mafia": [
+		"Cron",
+		"Colin",
+		"Joey"
+	],
+	"n0": [
+		"Noah",
+		"5"
+	],
+	"n0_save": "Joey",
+	"shot": "",
+	"lynched": [
+		"Cron",
+		"Colin",
+		"Joey"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

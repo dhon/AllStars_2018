@@ -1,0 +1,37 @@
+{
+	"id": "05_31_2017_G2",
+	"cop": "Siggywiggy",
+	"medic": "Striker",
+	"vigilante": "Dave Dob",
+	"vanilla_town": [
+		"Guy",
+		"Ryuzilla",
+		"Noah",
+		"Rollo",
+		"Ryan",
+		"dLGN",
+		"Ramza",
+		"Mattchew",
+		"Captain"
+	],
+	"mafia": [
+		"Pat",
+		"Turtle",
+		"Pope"
+	],
+	"n0": [
+		"Striker",
+		"Guy"
+	],
+	"n0_save": "Captain",
+	"shot": "Turtle",
+	"lynched": [
+		"Mattchew",
+		"Rollo",
+		"Ryan",
+		"dLGN"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

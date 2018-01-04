@@ -1,0 +1,36 @@
+{
+	"id": "09_20_2017_G1",
+	"cop": "Tambo",
+	"medic": "Siggywiggy",
+	"vigilante": "Jan",
+	"vanilla_town": [
+		"Captain",
+		"Ryuzilla",
+		"Duke",
+		"Paperscraps",
+		"Nydus",
+		"dLGN",
+		"Boobles",
+		"Colin",
+		"Pope"
+	],
+	"mafia": [
+		"Ryan",
+		"5",
+		"Kny"
+	],
+	"n0": [
+		"Jan",
+		"Siggywiggy"
+	],
+	"n0_save": "Pope",
+	"shot": "",
+	"lynched": [
+		"Colin",
+		"Paperscraps",
+		"Tambo"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

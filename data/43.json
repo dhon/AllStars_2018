@@ -1,0 +1,37 @@
+{
+	"id": "05_31_2017_G1",
+	"cop": "Steve",
+	"medic": "Cron",
+	"vigilante": "Fonti",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Captain",
+		"Mattchew",
+		"Rollo",
+		"dLGN",
+		"Pat",
+		"Pope",
+		"Ramza",
+		"Striker"
+	],
+	"mafia": [
+		"Joey",
+		"Jan",
+		"Ryan"
+	],
+	"n0": [
+		"Striker",
+		"Cron"
+	],
+	"n0_save": "Ramza",
+	"shot": "Mattchew",
+	"lynched": [
+		"Ryan",
+		"dLGN",
+		"Pat",
+		"Steve"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

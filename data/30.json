@@ -1,0 +1,37 @@
+{
+	"id": "04_12_2017_G2",
+	"cop": "Ryan",
+	"medic": "Ryuzilla",
+	"vigilante": "Dave Dob",
+	"vanilla_town": [
+		"Wes",
+		"Noah",
+		"Captain",
+		"Trump",
+		"Rollo",
+		"Danny",
+		"Siggywiggy",
+		"Pope",
+		"Jan"
+	],
+	"mafia": [
+		"Nukey",
+		"Younguns",
+		"Guy"
+	],
+	"n0": [
+		"Pope",
+		"Noah"
+	],
+	"n0_save": "Guy",
+	"shot": "Captain",
+	"lynched": [
+		"Younguns",
+		"Nukey",
+		"Danny",
+		"Jan"
+	],
+	"f3_win": [ "Guy" ],
+	"f3_loss": [ "Jan", "Wes" ],
+	"winner": "Mafia"
+}

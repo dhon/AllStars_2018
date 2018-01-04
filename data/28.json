@@ -1,0 +1,37 @@
+{
+	"id": "04_05_2017_G2",
+	"cop": "Fonti",
+	"medic": "Onionknight",
+	"vigilante": "Ryan",
+	"vanilla_town": [
+		"Trump",
+		"Optic",
+		"Ryuzilla",
+		"Nydus",
+		"Ben",
+		"Younguns",
+		"Jan",
+		"Nukey",
+		"Dave Dob"
+	],
+	"mafia": [
+		"Rollo",
+		"Kny",
+		"5"
+	],
+	"n0": [
+		"Younguns",
+		"Onionknight"
+	],
+	"n0_save": "Jan",
+	"shot": "Trump",
+	"lynched": [
+		"Kny",
+		"Rollo",
+		"5",
+		"Optic"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

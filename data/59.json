@@ -1,0 +1,36 @@
+{
+	"id": "07_26_2017_G1",
+	"cop": "Rollo",
+	"medic": "Cron",
+	"vigilante": "Pope",
+	"vanilla_town": [
+		"Wiggles",
+		"Ryuzilla",
+		"Joey",
+		"Captain",
+		"5",
+		"Jan",
+		"David",
+		"Guy",
+		"Siggywiggy"
+	],
+	"mafia": [
+		"Double A",
+		"Onionknight",
+		"Turtle"
+	],
+	"n0": [
+		"Ryuzilla",
+		"Captain"
+	],
+	"n0_save": "Captain",
+	"shot": "Rollo",
+	"lynched": [
+		"Cron",
+		"Jan",
+		"David"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

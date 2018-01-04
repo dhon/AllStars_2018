@@ -1,0 +1,37 @@
+{
+	"id": "02_22_2017_G1",
+	"cop": "Joey",
+	"medic": "Cron",
+	"vigilante": "Trump",
+	"vanilla_town": [
+		"Double A",
+		"Pope",
+		"Steve",
+		"Wiggles",
+		"Ramza",
+		"5",
+		"Ryuzilla",
+		"Jan",
+		"Erik"
+	],
+	"mafia": [
+		"Freak",
+		"dLGN",
+		"Fonti"
+	],
+	"n0": [
+		"Ryuzilla",
+		"Joey"
+	],
+	"n0_save": "Pope",
+	"shot": "",
+	"lynched": [
+		"dLGN",
+		"Erik",
+		"Jan",
+		"Ramza"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

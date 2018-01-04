@@ -1,0 +1,39 @@
+{
+	"id": "03_29_2017_G1",
+	"cop": "Kny",
+	"medic": "Erik",
+	"vigilante": "Striker",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Double A",
+		"Captain",
+		"Rollo",
+		"dLGN",
+		"Noah",
+		"5",
+		"Slip",
+		"Pope"
+	],
+	"mafia": [
+		"Boone",
+		"Cron",
+		"FattDamon"
+	],
+	"n0": [
+		"5",
+		"Pope"
+	],
+	"n0_save": "Pope",
+	"shot": "",
+	"lynched": [
+		"Boone",
+		"FattDamon",
+		"Cron",
+		"Rollo",
+		"Captain",
+		"dLGN"
+	],
+	"f3_win": [ "Ryuzilla", "Slip" ],
+	"f3_loss": [ "Cron" ],
+	"winner": "Town"
+}

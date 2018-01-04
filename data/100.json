@@ -1,0 +1,36 @@
+{
+	"id": "12_27_2017_G2",
+	"cop": "Ryan",
+	"medic": "Wiggles",
+	"vigilante": "Colin",
+	"vanilla_town": [
+		"RJ",
+		"Boobles",
+		"Dave Dob",
+		"Striker",
+		"Rollo",
+		"Freak",
+		"Boone",
+		"Ocane",
+		"Jan"
+	],
+	"mafia": [
+		"Gnome",
+		"Pope",
+		"Ryuzilla"
+	],
+	"n0": [
+		"Rollo",
+		"RJ"
+	],
+	"n0_save": "Pope",
+	"shot": "Gnome",
+	"lynched": [
+		"Boone",
+		"Freak",
+		"Boobles"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

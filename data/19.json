@@ -1,0 +1,35 @@
+{
+	"id": "03_08_2017_G1",
+	"cop": "Tana",
+	"medic": "Mattchew",
+	"vigilante": "Ramza",
+	"vanilla_town": [
+		"Pope",
+		"Rollo",
+		"Ryuzilla",
+		"Boone",
+		"Kny",
+		"Freak",
+		"Ryan",
+		"Ben",
+		"Wiggles"
+	],
+	"mafia": [
+		"Slip",
+		"Joey",
+		"Erik"
+	],
+	"n0": [
+		"Ramza",
+		"Wiggles"
+	],
+	"n0_save": "Pope",
+	"shot": "",
+	"lynched": [
+		"Ryan",
+		"Pope"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

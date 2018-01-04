@@ -1,0 +1,37 @@
+{
+	"id": "11_29_2017_G2",
+	"cop": "Dave Dob",
+	"medic": "Mattchew",
+	"vigilante": "Ian",
+	"vanilla_town": [
+		"Mavelost",
+		"Pope",
+		"Colin",
+		"Gnome",
+		"Rollo",
+		"Younguns",
+		"Justice",
+		"Aquilla",
+		"Ghost 1"
+	],
+	"mafia": [
+		"Ryuzilla",
+		"Ryan",
+		"Pat"
+	],
+	"n0": [
+		"Younguns",
+		"Ghost 1"
+	],
+	"n0_save": "Pat",
+	"shot": "Pope",
+	"lynched": [
+		"Dave Dob",
+		"Pat",
+		"Ryan",
+		"Aquilla"
+	],
+	"f3_win": [ "Ryuzilla" ],
+	"f3_loss": [ "Justice", "Rollo" ],
+	"winner": "Mafia"
+}

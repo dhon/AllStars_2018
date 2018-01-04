@@ -1,0 +1,37 @@
+{
+	"id": "02_15_2017_G1",
+	"cop": "Captain",
+	"medic": "Slip",
+	"vigilante": "Noah",
+	"vanilla_town": [
+		"Double A",
+		"Erik",
+		"Jan",
+		"Nydus",
+		"Guy",
+		"Striker",
+		"Pope",
+		"Onionknight",
+		"Ramza"
+	],
+	"mafia": [
+		"Ryuzilla",
+		"Wiggles",
+		"Joey"
+	],
+	"n0": [
+		"Captain",
+		"Noah"
+	],
+	"n0_save": "Noah",
+	"shot": "",
+	"lynched": [
+		"Joey",
+		"Ryuzilla",
+		"Wiggles",
+		"Onionknight"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

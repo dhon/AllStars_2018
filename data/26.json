@@ -1,0 +1,37 @@
+{
+	"id": "03_29_2017_G2",
+	"cop": "Siggywiggy",
+	"medic": "Optic",
+	"vigilante": "Kny",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Nat",
+		"Ben",
+		"Noah",
+		"Rollo",
+		"Fletch",
+		"Boone",
+		"Nydus",
+		"5"
+	],
+	"mafia": [
+		"Garrinski",
+		"Captain",
+		"Pope"
+	],
+	"n0": [
+		"Ben",
+		"Optic"
+	],
+	"n0_save": "Noah",
+	"shot": "Captain",
+	"lynched": [
+		"Garrinski",
+		"Pope",
+		"Nat",
+		"Noah"
+	],
+	"f3_win": [ "Rollo", "Boone" ],
+	"f3_loss": [ "Pope" ],
+	"winner": "Town"
+}

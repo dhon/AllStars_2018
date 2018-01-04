@@ -1,0 +1,35 @@
+{
+	"id": "05_17_2017_G2",
+	"cop": "Rollo",
+	"medic": "Zocide",
+	"vigilante": "Dave Dob",
+	"vanilla_town": [
+		"Fonti",
+		"Kiwi",
+		"Razze",
+		"Steve",
+		"Jan",
+		"Kane",
+		"Ryuzilla",
+		"Turtle",
+		"Pope"
+	],
+	"mafia": [
+		"Wiggles",
+		"Fletch",
+		"David"
+	],
+	"n0": [
+		"Rollo",
+		"Pope"
+	],
+	"n0_save": "Pope",
+	"shot": "Jan",
+	"lynched": [
+		"Turtle",
+		"Zocide"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

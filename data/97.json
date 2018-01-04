@@ -1,0 +1,37 @@
+{
+	"id": "12_13_2017_G1",
+	"cop": "Guy",
+	"medic": "Steve",
+	"vigilante": "Ramza",
+	"vanilla_town": [
+		"Colin",
+		"Ryuzilla",
+		"Peeperz",
+		"Rollo",
+		"Striker",
+		"Siggywiggy",
+		"Adam",
+		"Ghost 1",
+		"Ghost 2"
+	],
+	"mafia": [
+		"Noah",
+		"Pope",
+		"Pat"
+	],
+	"n0": [
+		"Ghost 1",
+		"Ghost 2"
+	],
+	"n0_save": "",
+	"shot": "",
+	"lynched": [
+		"Siggywiggy",
+		"Pat",
+		"Noah",
+		"Pope"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

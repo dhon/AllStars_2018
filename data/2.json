@@ -1,0 +1,37 @@
+{
+	"id": "01_04_2017_G2",
+	"cop": "Ocane",
+	"medic": "Turtle",
+	"vigilante": "Fonti",
+	"vanilla_town": [
+		"Pope",
+		"dLGN",
+		"Freak",
+		"Slip",
+		"Jan",
+		"Noah",
+		"Striker",
+		"Ryuzilla",
+		"5"
+	],
+	"mafia": [
+		"Jon Paul",
+		"Wiggles",
+		"Kny"
+	],
+	"n0": [
+		"Jan",
+		"Striker"
+	],
+	"n0_save": "Striker",
+	"shot": "Jon Paul",
+	"lynched": [
+		"Kny",
+		"Wiggles",
+		"Noah",
+		"5"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

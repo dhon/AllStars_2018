@@ -1,0 +1,35 @@
+{
+	"id": "12_06_2017_G2",
+	"cop": "Mattchew",
+	"medic": "Rollo",
+	"vigilante": "Mavelost",
+	"vanilla_town": [
+		"Pope",
+		"Captain",
+		"Steve",
+		"Jojo",
+		"Guy",
+		"Striker",
+		"CJ",
+		"Kiwi",
+		"Ryuzilla"
+	],
+	"mafia": [
+		"Dakng",
+		"Colin",
+		"Gilbert"
+	],
+	"n0": [
+		"Mattchew",
+		"Captain"
+	],
+	"n0_save": "Steve",
+	"shot": "Dakng",
+	"lynched": [
+		"Gilbert",
+		"Colin"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

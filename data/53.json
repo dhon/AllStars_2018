@@ -1,0 +1,37 @@
+{
+	"id": "07_05_2017_G1",
+	"cop": "Kny",
+	"medic": "Steve",
+	"vigilante": "Guy",
+	"vanilla_town": [
+		"Joey",
+		"David",
+		"Freak",
+		"Rollo",
+		"Striker",
+		"Fonti",
+		"Templar",
+		"Erik",
+		"Pope"
+	],
+	"mafia": [
+		"Ryan",
+		"Jan",
+		"Ryuzilla"
+	],
+	"n0": [
+		"Fonti",
+		"Joey"
+	],
+	"n0_save": "Jan",
+	"shot": "David",
+	"lynched": [
+		"Jan",
+		"Ryan",
+		"Striker",
+		"Erik"
+	],
+	"f3_win": [ "Ryuzilla" ],
+	"f3_loss": [ "Templar", "Pope" ],
+	"winner": "Mafia"
+}

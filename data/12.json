@@ -1,0 +1,38 @@
+{
+	"id": "02_08_2017_G2",
+	"cop": "5",
+	"medic": "Noah",
+	"vigilante": "Joey",
+	"vanilla_town": [
+		"Kny",
+		"Trump",
+		"Pope",
+		"Slip",
+		"Guy",
+		"Jon Paul",
+		"Wiggles",
+		"Ryan",
+		"Nydus"
+	],
+	"mafia": [
+		"Jan",
+		"Fonti",
+		"Ryuzilla"
+	],
+	"n0": [
+		"Nydus",
+		"Guy"
+	],
+	"n0_save": "Jan",
+	"shot": "Trump",
+	"lynched": [
+		"Fonti",
+		"Jan",
+		"Ryuzilla",
+		"Jon Paul",
+		"Ryan"
+	],
+	"f3_win": [ "Pope", "Slip" ],
+	"f3_loss": [ "Ryuzilla" ],
+	"winner": "Town"
+}

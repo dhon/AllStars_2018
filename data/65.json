@@ -1,0 +1,38 @@
+{
+	"id": "08_16_2017_G1",
+	"cop": "Joey",
+	"medic": "Spunky",
+	"vigilante": "Wes",
+	"vanilla_town": [
+		"Captain",
+		"Ramza",
+		"Jan",
+		"Ryuzilla",
+		"Double A",
+		"Ryan",
+		"Fletch",
+		"EffinNipples",
+		"Rollo"
+	],
+	"mafia": [
+		"Colin",
+		"Pope",
+		"Andy"
+	],
+	"n0": [
+		"Ryuzilla",
+		"EffinNipples"
+	],
+	"n0_save": "Joey",
+	"shot": "Jan",
+	"lynched": [
+		"Ryan",
+		"Colin",
+		"Ramza",
+		"Pope",
+		"Andy"
+	],
+	"f3_win": [ "Rollo", "Fletch" ],
+	"f3_loss": [ "Andy" ],
+	"winner": "Town"
+}

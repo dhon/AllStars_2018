@@ -1,0 +1,37 @@
+{
+	"id": "08_30_2017_G2",
+	"cop": "Colin",
+	"medic": "BaehreX",
+	"vigilante": "Danny",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Jan",
+		"Peeperz",
+		"David",
+		"Unctious",
+		"Siggywiggy",
+		"Ryan",
+		"Rollo",
+		"CJ"
+	],
+	"mafia": [
+		"Beruru",
+		"Fonti",
+		"Wes"
+	],
+	"n0": [
+		"Ryuzilla",
+		"David"
+	],
+	"n0_save": "Unctious",
+	"shot": "Fonti",
+	"lynched": [
+		"Beruru",
+		"CJ",
+		"Siggywiggy",
+		"Wes"
+	],
+	"f3_win": [ "Rollo", "Ryan" ],
+	"f3_loss": [ "Wes" ],
+	"winner": "Town"
+}

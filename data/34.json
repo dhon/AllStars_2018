@@ -1,0 +1,37 @@
+{
+	"id": "04_26_2017_G2",
+	"cop": "Ben",
+	"medic": "Peeperz",
+	"vigilante": "Pope",
+	"vanilla_town": [
+		"Rollo",
+		"Ocane",
+		"Alesh",
+		"Ryuzilla",
+		"Wes",
+		"Ryan",
+		"Trump",
+		"Cron",
+		"Optic"
+	],
+	"mafia": [
+		"dLGN",
+		"Jan",
+		"5"
+	],
+	"n0": [
+		"Alesh",
+		"Optic"
+	],
+	"n0_save": "Pope",
+	"shot": "Rollo",
+	"lynched": [
+		"Jan",
+		"Ryan",
+		"Cron",
+		"Peeperz"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

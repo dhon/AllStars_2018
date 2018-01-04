@@ -1,0 +1,38 @@
+{
+	"id": "04_26_2017_G1",
+	"cop": "Ryan",
+	"medic": "Ramza",
+	"vigilante": "Joey",
+	"vanilla_town": [
+		"Pope",
+		"Ben",
+		"Rollo",
+		"Mal",
+		"Jan",
+		"Ryuzilla",
+		"Peeperz",
+		"Trump",
+		"Cron"
+	],
+	"mafia": [
+		"Ocane",
+		"Radial",
+		"dLGN"
+	],
+	"n0": [
+		"Joey",
+		"Trump"
+	],
+	"n0_save": "Trump",
+	"shot": "",
+	"lynched": [
+		"Radial",
+		"Ocane",
+		"Mal",
+		"Rollo",
+		"Pope"
+	],
+	"f3_win": [ "dLGN" ],
+	"f3_loss": [ "Pope", "Rollo" ],
+	"winner": "Mafia"
+}

@@ -1,0 +1,39 @@
+{
+	"id": "04_19_2017_G1",
+	"cop": "Cron",
+	"medic": "Joey",
+	"vigilante": "Steve",
+	"vanilla_town": [
+		"5",
+		"Danny",
+		"Jan",
+		"Ryuzilla",
+		"Trump",
+		"Double A",
+		"Ocane",
+		"Dave Dob",
+		"Freak"
+	],
+	"mafia": [
+		"Kny",
+		"Fonti",
+		"Pope"
+	],
+	"n0": [
+		"Dave Dob",
+		"Danny"
+	],
+	"n0_save": "Fonti",
+	"shot": "",
+	"lynched": [
+		"Pope",
+		"5",
+		"Trump",
+		"Cron",
+		"player",
+		"player"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

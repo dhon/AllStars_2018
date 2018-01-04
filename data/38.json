@@ -1,0 +1,37 @@
+{
+	"id": "05_10_2017_G2",
+	"cop": "Wes",
+	"medic": "Pozzai",
+	"vigilante": "Guy",
+	"vanilla_town": [
+		"Fonti",
+		"Younguns",
+		"Rollo",
+		"Garrinski",
+		"David",
+		"Ryuzilla",
+		"Pope",
+		"Fletch",
+		"Cron"
+	],
+	"mafia": [
+		"Andy",
+		"Optic",
+		"Peeperz"
+	],
+	"n0": [
+		"Cron",
+		"Guy"
+	],
+	"n0_save": "Ryuzilla",
+	"shot": "",
+	"lynched": [
+		"Andy",
+		"Optic",
+		"Peeperz",
+		"Rollo"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

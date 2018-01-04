@@ -1,0 +1,37 @@
+{
+	"id": "06_28_2017_G1",
+	"cop": "Jan",
+	"medic": "Captain",
+	"vigilante": "Ryuzilla",
+	"vanilla_town": [
+		"Double A",
+		"Ocane",
+		"Rollo",
+		"Kny",
+		"Pope",
+		"5",
+		"Boobles",
+		"Striker",
+		"Joey"
+	],
+	"mafia": [
+		"Cron",
+		"Trump",
+		"David"
+	],
+	"n0": [
+		"Striker",
+		"Joey"
+	],
+	"n0_save": "Double A",
+	"shot": "Pope",
+	"lynched": [
+		"Trump",
+		"Cron",
+		"David",
+		"Boobles"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

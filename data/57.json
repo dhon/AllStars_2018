@@ -1,0 +1,38 @@
+{
+	"id": "07_19_2017_G1",
+	"cop": "dLGN",
+	"medic": "Ramza",
+	"vigilante": "Noah",
+	"vanilla_town": [
+		"Pope",
+		"Rollo",
+		"Ryuzilla",
+		"Pat",
+		"Cron",
+		"Guy",
+		"Slip",
+		"Joey",
+		"Colin"
+	],
+	"mafia": [
+		"Jan",
+		"Striker",
+		"Younguns"
+	],
+	"n0": [
+		"Pope",
+		"Noah"
+	],
+	"n0_save": "Joey",
+	"shot": "",
+	"lynched": [
+		"Colin",
+		"Striker",
+		"Jan",
+		"Pat",
+		"Younguns"
+	],
+	"f3_win": [ "Joey", "Cron" ],
+	"f3_loss": [ "Younguns" ],
+	"winner": "Town"
+}

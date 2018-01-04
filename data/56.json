@@ -1,0 +1,35 @@
+{
+	"id": "07_12_2017_G2",
+	"cop": "Ryuzilla",
+	"medic": "Noah",
+	"vigilante": "Captain",
+	"vanilla_town": [
+		"Pat",
+		"David",
+		"Jan",
+		"Duke",
+		"Rollo",
+		"Pope",
+		"Siggywiggy",
+		"Fonti",
+		"Spectrum"
+	],
+	"mafia": [
+		"Ocane",
+		"Gilbert",
+		"Steve"
+	],
+	"n0": [
+		"Pat",
+		"Jan"
+	],
+	"n0_save": "Jan",
+	"shot": "Ocane",
+	"lynched": [
+		"Gilbert",
+		"Steve"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

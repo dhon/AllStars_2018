@@ -1,0 +1,38 @@
+{
+	"id": "03_01_2017_G1",
+	"cop": "Steve",
+	"medic": "Captain",
+	"vigilante": "Erik",
+	"vanilla_town": [
+		"Ryuzilla",
+		"Onionknight",
+		"Jan",
+		"Pope",
+		"dLGN",
+		"Cron",
+		"Trump",
+		"Noah",
+		"Joey"
+	],
+	"mafia": [
+		"Fonti",
+		"Slip",
+		"5"
+	],
+	"n0": [
+		"Pope",
+		"dLGN"
+	],
+	"n0_save": "Joey",
+	"shot": "5",
+	"lynched": [
+		"Slip",
+		"Joey",
+		"Noah",
+		"Cron",
+		"Onionknight"
+	],
+	"f3_win": [ "Fonti" ],
+	"f3_loss": [ "Onionknight", "Jan" ],
+	"winner": "Mafia"
+}

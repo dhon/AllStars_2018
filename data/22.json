@@ -1,0 +1,36 @@
+{
+	"id": "03_15_2017_G2",
+	"cop": "dLGN",
+	"medic": "Lt",
+	"vigilante": "Freak",
+	"vanilla_town": [
+		"Bstee",
+		"Dallas",
+		"Ryuzilla",
+		"Dave Dob",
+		"5",
+		"Captain",
+		"Nydus",
+		"Optic",
+		"Rollo"
+	],
+	"mafia": [
+		"Jon Paul",
+		"Wiggles",
+		"Kny"
+	],
+	"n0": [
+		"Optic",
+		"Lt"
+	],
+	"n0_save": "Nydus",
+	"shot": "Wiggles",
+	"lynched": [
+		"Kny",
+		"Jon Paul",
+		"Dallas"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

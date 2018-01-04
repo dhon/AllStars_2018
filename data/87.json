@@ -1,0 +1,35 @@
+{
+	"id": "11_01_2017_G1",
+	"cop": "Siggywiggy",
+	"medic": "Ocane",
+	"vigilante": "Ryan",
+	"vanilla_town": [
+		"Ramza",
+		"Colin",
+		"Joey",
+		"Striker",
+		"Captain",
+		"Duke",
+		"Ryuzilla",
+		"Gnome",
+		"5"
+	],
+	"mafia": [
+		"Dave Dob",
+		"Guy",
+		"Pope"
+	],
+	"n0": [
+		"5",
+		"Joey"
+	],
+	"n0_save": "Striker",
+	"shot": "Ocane",
+	"lynched": [
+		"Colin",
+		"Gnome"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Mafia"
+}

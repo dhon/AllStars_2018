@@ -1,0 +1,36 @@
+{
+	"id": "05_17_2017_G1",
+	"cop": "Rollo",
+	"medic": "Cron",
+	"vigilante": "Zocide",
+	"vanilla_town": [
+		"Dave Dob",
+		"Turtle",
+		"Jan",
+		"David",
+		"Steve",
+		"Kane",
+		"Trump",
+		"Duke",
+		"Ghost 1"
+	],
+	"mafia": [
+		"Bstee",
+		"Fonti",
+		"Ryuzilla"
+	],
+	"n0": [
+		"David",
+		"Ghost 1"
+	],
+	"n0_save": "Kane",
+	"shot": "",
+	"lynched": [
+		"Ryuzilla",
+		"Bstee",
+		"Fonti"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "07_12_2017_G1",
+	"cop": "Joey",
+	"medic": "Pat",
+	"vigilante": "Fonti",
+	"vanilla_town": [
+		"5",
+		"Jan",
+		"Gilbert",
+		"Noah",
+		"Cron",
+		"Ocane",
+		"Ryuzilla",
+		"Rollo",
+		"Pope"
+	],
+	"mafia": [
+		"David",
+		"Captain",
+		"dLGN"
+	],
+	"n0": [
+		"Ryuzilla",
+		"Rollo"
+	],
+	"n0_save": "David",
+	"shot": "Noah",
+	"lynched": [
+		"David",
+		"dLGN",
+		"Captain"
+	],
+	"f3_win": [],
+	"f3_loss": [],
+	"winner": "Town"
+}

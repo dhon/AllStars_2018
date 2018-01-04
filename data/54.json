@@ -1,0 +1,38 @@
+{
+	"id": "07_05_2017_G2",
+	"cop": "Fonti",
+	"medic": "Pope",
+	"vigilante": "Wes",
+	"vanilla_town": [
+		"Demon",
+		"Striker",
+		"Noah",
+		"5",
+		"Jan",
+		"David",
+		"Kny",
+		"Rollo",
+		"Ryan"
+	],
+	"mafia": [
+		"Dave Dob",
+		"Ryuzilla",
+		"Fletch"
+	],
+	"n0": [
+		"Jan",
+		"Striker"
+	],
+	"n0_save": "Fletch",
+	"shot": "Kny",
+	"lynched": [
+		"Fletch",
+		"Ryuzilla",
+		"Dave Dob",
+		"Fonti",
+		"Pope"
+	],
+	"f3_win": [ "Noah", "Ryan" ],
+	"f3_loss": [ "Dave Dob" ],
+	"winner": "Town"
+}
