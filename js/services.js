@@ -232,8 +232,8 @@ angular.module('app.services', [])
     function getVigiShot(){
         for(var i = 0; i < data.length; i++){
             for(var x = 0; x < stats.length; x++){
-                if(data[i].shot == stats[x].name){
-                    if(data[i].shot == data[i].cop || data[i].shot == data[i].medic || data[i].shot == data[i].vigilante){
+                if(data[i].shot[data[i].shot.length-1] == stats[x].name){
+                    if(data[i].shot[data[i].shot.length-1] == data[i].cop || data[i].shot[data[i].shot.length-1] == data[i].medic || data[i].shot[data[i].shot.length-1] == data[i].vigilante){
                         stats[x].shot_pr++;
                         for(var a = 0; a < stats.length; a++){
                             if(data[i].vigilante == stats[a].name){
@@ -244,7 +244,7 @@ angular.module('app.services', [])
                         break;
                     }
                     for(var y = 0; y < data[i].vanilla_town.length; y++){
-                        if(data[i].shot == data[i].vanilla_town[y]){
+                        if(data[i].shot[data[i].shot.length-1] == data[i].vanilla_town[y]){
                             stats[x].shot_vt++;
                             for(var a = 0; a < stats.length; a++){
                                 if(data[i].vigilante == stats[a].name){
@@ -256,7 +256,7 @@ angular.module('app.services', [])
                         }
                     }
                     for(var y = 0; y < data[i].mafia.length; y++){
-                        if(data[i].shot == data[i].mafia[y]){
+                        if(data[i].shot[data[i].shot.length-1] == data[i].mafia[y]){
                             stats[x].shot_mafia++;
                             for(var a = 0; a < stats.length; a++){
                                 if(data[i].vigilante == stats[a].name){
