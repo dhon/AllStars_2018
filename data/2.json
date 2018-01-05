@@ -1,0 +1,63 @@
+{
+  "id": "01/03/2018 G2",
+  "mafia": [
+    "Ryuzilla",
+    "BaehreX",
+    "Gnome"
+  ],
+  "kill": [
+    [
+      "Noah",
+      "Striker"
+    ],
+    "Pope",
+    "Rollo",
+    "Ocane",
+    "Guy",
+    "RJ"
+  ],
+  "cop": "Ocane",
+  "check": [
+    "Rollo",
+    "Pope",
+    "Siggywiggy",
+    "Gnome"
+  ],
+  "medic": "Striker",
+  "save": [
+    "Ryuzilla"
+  ],
+  "vigilante": "Guy",
+  "shot": [
+    "NONE",
+    "NONE",
+    "Jan"
+  ],
+  "vanilla_town": [
+    "Fonti",
+    "Garrinski",
+    "Jan",
+    "Noah",
+    "Pope",
+    "Rollo",
+    "RJ",
+    "Siggywiggy",
+    "Younguns"
+  ],
+  "lynched": [
+    "BaehreX",
+    "Younguns",
+    "Fonti",
+    "Ryuzilla",
+    "SLEEP",
+    "Siggywiggy"
+  ],
+  "f3_win": [
+    "Gnome"
+  ],
+  "f3_loss": [
+    "Siggywiggy",
+    "Garrinski"
+  ],
+  "winner": "Mafia"
+}

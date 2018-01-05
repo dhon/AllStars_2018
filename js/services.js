@@ -176,15 +176,15 @@ angular.module('app.services', [])
         for(var i = 0; i < data.length; i++){
             var count = 0;
             for(var j = 0; j < stats.length; j++){
-                if(data[i].n0[0] == stats[j].name){
+                if(data[i].kill[0][0] == stats[j].name){
                     stats[j].n0++;
                     count++;
                 }
-                if(data[i].n0[1] == stats[j].name){
+                if(data[i].kill[0][1] == stats[j].name){
                     stats[j].n0++;
                     count++;
                 }
-                if(count == data[i].n0.length){
+                if(count == data[i].kill[0].length){
                     break;
                 }
             }
@@ -194,7 +194,7 @@ angular.module('app.services', [])
     function getN0Save(){
         for(var i = 0; i < data.length; i++){
             for(var j = 0; j < stats.length; j++){
-                if(data[i].n0_save == stats[j].name){
+                if(data[i].save[0] == stats[j].name){
                     stats[j].n0_save++;
                     break;
                 }
@@ -275,16 +275,18 @@ angular.module('app.services', [])
     function getF3WinLoss(){
         for(var i = 0; i < data.length; i++){
             for(var j = 0; j < stats.length; j++){
-                for(var x = 0; x < data[i].f3_win.length; x++){
-                    if(data[i].f3_win[x] == stats[j].name){
-                        stats[j].f3_win++;
-                        break;
+                if(data[i].f3_win != null && data[i].f3_loss != null){
+                    for(var x = 0; x < data[i].f3_win.length; x++){
+                        if(data[i].f3_win[x] == stats[j].name){
+                            stats[j].f3_win++;
+                            break;
+                        }
                     }
-                }
-                for(var x = 0; x < data[i].f3_loss.length; x++){
-                    if(data[i].f3_loss[x] == stats[j].name){
-                        stats[j].f3_loss++;
-                        break;
+                    for(var x = 0; x < data[i].f3_loss.length; x++){
+                        if(data[i].f3_loss[x] == stats[j].name){
+                            stats[j].f3_loss++;
+                            break;
+                        }
                     }
                 }
             }
@@ -297,10 +299,10 @@ angular.module('app.services', [])
                 for(var a = 0; a < data[i].vanilla_town.length; a++){
                     if(data[i].winner == "Town"){
                         if(data[i].vanilla_town[a] == stats[j].name){
-                            if(data[i].n0[0] == data[i].vanilla_town[a] && data[i].n0[1] == data[i].vanilla_town[a] && data[i].n0_save == data[i].vanilla_town[a]){
+                            if(data[i].kill[0][0] == data[i].vanilla_town[a] && data[i].kill[0][1] == data[i].vanilla_town[a] && data[i].save[0] == data[i].vanilla_town[a]){
                                 stats[j].played++;
                                 break;
-                            }else if((data[i].n0[0] == data[i].vanilla_town[a] || data[i].n0[1] == data[i].vanilla_town[a]) && data[i].n0_save != data[i].vanilla_town[a]){
+                            }else if((data[i].kill[0][0] == data[i].vanilla_town[a] || data[i].kill[0][1] == data[i].vanilla_town[a]) && data[i].save[0] != data[i].vanilla_town[a]){
                                 stats[j].played++;
                                 break;
                             }else{
@@ -311,10 +313,10 @@ angular.module('app.services', [])
                         }
                     }else if(data[i].winner == "Mafia"){
                         if(data[i].vanilla_town[a] == stats[j].name){
-                            if(data[i].n0[0] == data[i].vanilla_town[a] && data[i].n0[1] == data[i].vanilla_town[a] && data[i].n0_save == data[i].vanilla_town[a]){
+                            if(data[i].kill[0][0] == data[i].vanilla_town[a] && data[i].kill[0][1] == data[i].vanilla_town[a] && data[i].save[0] == data[i].vanilla_town[a]){
                                 stats[j].played++;
                                 break;
-                            }else if((data[i].n0[0] == data[i].vanilla_town[a] || data[i].n0[1] == data[i].vanilla_town[a]) && data[i].n0_save != data[i].vanilla_town[a]){
+                            }else if((data[i].kill[0][0] == data[i].vanilla_town[a] || data[i].kill[0][1] == data[i].vanilla_town[a]) && data[i].save[0] != data[i].vanilla_town[a]){
                                 stats[j].played++;
                                 break;
                             }else{
@@ -342,9 +344,9 @@ angular.module('app.services', [])
                 }
                 if(data[i].winner == "Town"){
                     if(data[i].cop == stats[j].name){
-                        if(data[i].n0[0] == data[i].cop && data[i].n0[1] == data[i].cop && data[i].n0_save == data[i].cop){
+                        if(data[i].kill[0][0] == data[i].cop && data[i].kill[0][1] == data[i].cop && data[i].save[0] == data[i].cop){
                             stats[j].played++;
-                        }else if((data[i].n0[0] == data[i].cop || data[i].n0[1] == data[i].cop) && data[i].n0_save != data[i].cop){
+                        }else if((data[i].kill[0][0] == data[i].cop || data[i].kill[0][1] == data[i].cop) && data[i].save[0] != data[i].cop){
                             stats[j].played++;
                         }else{
                             stats[j].played++;
@@ -352,9 +354,9 @@ angular.module('app.services', [])
                         }
                     }
                     if(data[i].medic == stats[j].name){
-                        if(data[i].n0[0] == data[i].medic && data[i].n0[1] == data[i].medic && data[i].n0_save == data[i].medic){
+                        if(data[i].kill[0][0] == data[i].medic && data[i].kill[0][1] == data[i].medic && data[i].save[0] == data[i].medic){
                             stats[j].played++;
-                        }else if((data[i].n0[0] == data[i].medic || data[i].n0[1] == data[i].medic) && data[i].n0_save != data[i].medic){
+                        }else if((data[i].kill[0][0] == data[i].medic || data[i].kill[0][1] == data[i].medic) && data[i].save[0] != data[i].medic){
                             stats[j].played++;
                         }else{
                             stats[j].played++;
@@ -362,9 +364,9 @@ angular.module('app.services', [])
                         }
                     }
                     if(data[i].vigilante == stats[j].name){
-                        if(data[i].n0[0] == data[i].vigilante && data[i].n0[1] == data[i].vigilante && data[i].n0_save == data[i].vigilante){
+                        if(data[i].kill[0][0] == data[i].vigilante && data[i].kill[0][1] == data[i].vigilante && data[i].save[0] == data[i].vigilante){
                             stats[j].played++;
-                        }else if((data[i].n0[0] == data[i].vigilante || data[i].n0[1] == data[i].vigilante) && data[i].n0_save != data[i].vigilante){
+                        }else if((data[i].kill[0][0] == data[i].vigilante || data[i].kill[0][1] == data[i].vigilante) && data[i].save[0] != data[i].vigilante){
                             stats[j].played++;
                         }else{
                             stats[j].played++;
@@ -373,9 +375,9 @@ angular.module('app.services', [])
                     }
                 }else if(data[i].winner == "Mafia"){
                     if(data[i].cop == stats[j].name){
-                        if(data[i].n0[0] == data[i].cop && data[i].n0[1] == data[i].cop && data[i].n0_save == data[i].cop){
+                        if(data[i].kill[0][0] == data[i].cop && data[i].kill[0][1] == data[i].cop && data[i].save[0] == data[i].cop){
                             stats[j].played++;
-                        }else if((data[i].n0[0] == data[i].cop || data[i].n0[1] == data[i].cop) && data[i].n0_save != data[i].cop){
+                        }else if((data[i].kill[0][0] == data[i].cop || data[i].kill[0][1] == data[i].cop) && data[i].save[0] != data[i].cop){
                             stats[j].played++;
                         }else{
                             stats[j].played++;
@@ -383,9 +385,9 @@ angular.module('app.services', [])
                         }
                     }
                     if(data[i].medic == stats[j].name){
-                        if(data[i].n0[0] == data[i].medic && data[i].n0[1] == data[i].medic && data[i].n0_save == data[i].medic){
+                        if(data[i].kill[0][0] == data[i].medic && data[i].kill[0][1] == data[i].medic && data[i].save[0] == data[i].medic){
                             stats[j].played++;
-                        }else if((data[i].n0[0] == data[i].medic || data[i].n0[1] == data[i].medic) && data[i].n0_save != data[i].medic){
+                        }else if((data[i].kill[0][0] == data[i].medic || data[i].kill[0][1] == data[i].medic) && data[i].save[0] != data[i].medic){
                             stats[j].played++;
                         }else{
                             stats[j].played++;
@@ -393,9 +395,9 @@ angular.module('app.services', [])
                         }
                     }
                     if(data[i].vigilante == stats[j].name){
-                        if(data[i].n0[0] == data[i].vigilante && data[i].n0[1] == data[i].vigilante && data[i].n0_save == data[i].vigilante){
+                        if(data[i].kill[0][0] == data[i].vigilante && data[i].kill[0][1] == data[i].vigilante && data[i].save[0] == data[i].vigilante){
                             stats[j].played++;
-                        }else if((data[i].n0[0] == data[i].vigilante || data[i].n0[1] == data[i].vigilante) && data[i].n0_save != data[i].vigilante){
+                        }else if((data[i].kill[0][0] == data[i].vigilante || data[i].kill[0][1] == data[i].vigilante) && data[i].save[0] != data[i].vigilante){
                             stats[j].played++;
                         }else{
                             stats[j].played++;
@@ -413,8 +415,8 @@ angular.module('app.services', [])
                 for(var a = 0; a < stats.length; a++){
                     if(data[i].mafia[j] == stats[a].name){
                         for(var b = 0; b < stats[a].n0_kills.length; b++){
-                            if(data[i].n0[0] == stats[a].n0_kills[b].name || data[i].n0[1] == stats[a].n0_kills[b].name){
-                                if(data[i].n0[0] == stats[a].n0_kills[b].name && data[i].n0[1] == stats[a].n0_kills[b].name)
+                            if(data[i].kill[0][0] == stats[a].n0_kills[b].name || data[i].kill[0][1] == stats[a].n0_kills[b].name){
+                                if(data[i].kill[0][0] == stats[a].n0_kills[b].name && data[i].kill[0][1] == stats[a].n0_kills[b].name)
                                     stats[a].n0_kills[b].killed++;
                                 stats[a].n0_kills[b].killed++;
                             }

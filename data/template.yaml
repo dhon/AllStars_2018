@@ -1,0 +1,46 @@
+id: MM/DD/2018 G#
+mafia:
+- player
+- player
+- player
+kill:
+- - player
+  - player
+- - player
+  - player
+- player
+- player
+cop: player
+check:
+- player
+- player
+medic: player
+save:
+- player
+- player
+vigilante: player
+shot:
+- NONE
+- NONE
+- player
+vanilla_town:
+- player
+- player
+- player
+- player
+- player
+- player
+- player
+- player
+- player
+lynched:
+- player
+- player
+- SLEEP
+f3_win:
+- player
+- player
+f3_loss:
+- player
+- player
+winner: team

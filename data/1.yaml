@@ -1,0 +1,45 @@
+id: 01/03/2018 G1
+mafia:
+- Pope
+- Noah
+- Optic
+kill:
+- - Jan
+  - Fonti
+- - Fonti
+  - Guy
+- - Colin
+  - Dave Dob
+- Ramza
+- Striker
+cop: Ramza
+check:
+- Jan
+- RJ
+- Striker
+medic: Jan
+save:
+- Fonti
+vigilante: Fonti
+shot:
+- NONE
+- Double A
+vanilla_town:
+- Ryuzilla
+- Double A
+- Striker
+- RJ
+- Colin
+- Rollo
+- Dave Dob
+- Ocane
+- Guy
+lynched:
+- SLEEP
+- SLEEP
+- Noah
+- Optic
+- Pope
+f3_win:
+f3_loss:
+winner: Town
