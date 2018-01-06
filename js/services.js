@@ -739,7 +739,7 @@ angular.module('app.services', [])
             if(id == stats[i].name)
                 return stats[i].n0_kills;
         return 0;
-    }
+    };
 
     return{
         getData, getGData, getKills
