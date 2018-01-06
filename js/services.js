@@ -10,7 +10,7 @@ angular.module('app.services', [])
     }
 
     function getJSON(){
-        for(var i = 0; i < 2; i++){
+        for(var i = 0; i < 1; i++){
             var ourRequest = new XMLHttpRequest();
             var num = (i+1);
             var URL = 'data/' + num + '.json'
@@ -84,7 +84,7 @@ angular.module('app.services', [])
     };
 
     function addPlayer(player){
-        stats.push({name:player, played:0, pTown:null, pPR:null, pWin:null, pTownWin:null, pMafiaWin:null, n0:0, n0_save:0,
+        stats.push({name:player, played:0, pTown:null, pPR:null, pWin:null, pTownWin:null, pMafiaWin:null, aDays:null, days:0, n0:0, n0_save:0,
                     lynch_mafia:0, lynch_vt:0, lynch_pr:0, shot_mafia:0, shot_vt:0, shot_pr:0, vigi_hit:0, vigi_miss:0, 
                     f3_win:0, f3_loss:0, roll_cop:0, roll_medic:0, roll_vigi:0, win_town:0, loss_town:0, win_mafia:0, loss_mafia:0,
                     n0_kills:[]});
@@ -440,12 +440,59 @@ angular.module('app.services', [])
         }
     };
 
+    function getDaysAlive(){
+        for(var i = 0; i < data.length; i++){
+            var players = [];
+            var days = data[i].lynched.length;
+            players.push({name:data[i].cop, killed:days});
+            players.push({name:data[i].medic, killed:days});
+            players.push({name:data[i].vigilante, killed:days});
+            for(var j = 0; j < data[i].vanilla_town.length; j++)
+                players.push({name:data[i].vanilla_town[j], killed:days});
+            for(var j = 0; j < data[i].mafia.length; j++)
+                players.push({name:data[i].mafia[j], killed:days});
+            for(var j = 0; j < data[i].lynched.length; j++)
+                for(var x = 0; x < players.length; x++)
+                    if(players[x].name == data[i].lynched[j])
+                        players[x].killed = j+1;
+            for(var j = 0; j < data[i].kill.length; j++)
+                for(var k = 0; k < data[i].kill[j].length; k++)
+                    for(var x = 0; x < players.length; x++)
+                        if(players[x].name == data[i].kill[j][k])
+                            if(players[x].name != data[i].save[j])
+                                players[x].killed = j;
+                            else
+                                if(data[i].kill[j].length == 2 && data[i].kill[j][0] == data[i].kill[j][1])
+                                    players[x].killed = j;
+            for(var x = 0; x < players.length; x++)
+                if(players[x].name == data[i].shot[data[i].shot.length-1])
+                    if(players[x].name != data[i].save[data[i].shot.length-1])
+                        players[x].killed = data[i].shot.length-1;
+                    else
+                        for(var y = 0; data[i].kills[data[i].shot.length-1].length; y++)
+                            if(players[x].name == data[i].kills[data[i].shot.length-1][y])
+                                players[x].killed = data[i].shot.length-1;
+            for(var j = 0; j < stats.length; j++)
+                for(var x = 0; x < players.length; x++)
+                    if(stats[j].name == players[x].name)
+                        stats[j].days += players[x].killed;
+        }
+    };
+
+    function getADays(){
+        for(var i = 0; i < stats.length; i++){
+            var days = stats[i].days;
+            var games = stats[i].played;
+            stats[i].aDays = (days / games).toFixed(1);
+        }
+    };
+
     function getPTown(){
         for(var i = 0; i < stats.length; i++){
             var mafia = stats[i].win_mafia + stats[i].loss_mafia;
             var town = stats[i].played - mafia;
             var total = mafia + town;
-            stats[i].pTown = ((town / total) * 100).toFixed(2);
+            stats[i].pTown = ((town / total) * 100).toFixed() + ' %';
         }
     };
 
@@ -453,7 +500,7 @@ angular.module('app.services', [])
         for(var i = 0; i < stats.length; i++){
             var pr = stats[i].roll_cop + stats[i].roll_medic + stats[i].roll_vigi;
             var total = stats[i].played;
-            stats[i].pPR = ((pr / total) * 100).toFixed(2);
+            stats[i].pPR = ((pr / total) * 100).toFixed() + ' %';
         }
     };
 
@@ -463,7 +510,7 @@ angular.module('app.services', [])
             var loss = stats[i].loss_town + stats[i].loss_mafia;
             var total = win + loss;
             if(total != 0){
-                stats[i].pWin = ((win / total) * 100).toFixed(2);
+                stats[i].pWin = ((win / total) * 100).toFixed() + ' %';
             }
         }
     };
@@ -474,7 +521,7 @@ angular.module('app.services', [])
             var loss = stats[i].loss_town;
             var total = win + loss;
             if(total != 0){
-                stats[i].pTownWin = ((win / total) * 100).toFixed(2);
+                stats[i].pTownWin = ((win / total) * 100).toFixed() + ' %';
             }
         }
     };
@@ -485,7 +532,7 @@ angular.module('app.services', [])
             var loss = stats[i].loss_mafia;
             var total = win + loss;
             if(total != 0){
-                stats[i].pMafiaWin = ((win / total) * 100).toFixed(2);
+                stats[i].pMafiaWin = ((win / total) * 100).toFixed() + ' %';
             }
         }
     };
@@ -495,7 +542,7 @@ angular.module('app.services', [])
             for(var j = 0; j < stats[i].n0_kills.length; j++){
                 var killed = stats[i].n0_kills[j].killed;
                 var total = stats[i].n0_kills[j].total;
-                stats[i].n0_kills[j].pKilled = ((killed / total) * 100).toFixed(2);
+                stats[i].n0_kills[j].pKilled = ((killed / total) * 100).toFixed() + ' %';
             }
         }
     };
@@ -530,6 +577,8 @@ angular.module('app.services', [])
         getF3WinLoss();
         getWinLossPlayed();
         getN0_Kills();
+        getDaysAlive();
+        getADays();
         getPTown();
         getPPR();
         getPWin();
