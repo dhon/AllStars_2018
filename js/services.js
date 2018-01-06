@@ -458,12 +458,17 @@ angular.module('app.services', [])
             for(var j = 0; j < data[i].kill.length; j++)
                 for(var k = 0; k < data[i].kill[j].length; k++)
                     for(var x = 0; x < players.length; x++)
-                        if(players[x].name == data[i].kill[j][k])
-                            if(players[x].name != data[i].save[j])
-                                players[x].killed = j;
-                            else
-                                if(data[i].kill[j].length == 2 && data[i].kill[j][0] == data[i].kill[j][1])
+                        if(data[i].kill[j].length == 2){
+                            if(players[x].name == data[i].kill[j][k])
+                                if(players[x].name != data[i].save[j])
                                     players[x].killed = j;
+                                else
+                                    if(data[i].kill[j][0] == data[i].kill[j][1])
+                                        players[x].killed = j;
+                        }else
+                            if(players[x].name == data[i].kill[j])
+                                if(players[x].name != data[i].save[j])
+                                    players[x].killed = j;                        
             for(var x = 0; x < players.length; x++)
                 if(players[x].name == data[i].shot[data[i].shot.length-1])
                     if(players[x].name != data[i].save[data[i].shot.length-1])
