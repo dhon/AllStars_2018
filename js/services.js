@@ -697,8 +697,6 @@ angular.module('app.services', [])
         getPKilled();
         validateNames();
         stats.sort(byPlayedName);
-        for(var i = 0; i < stats.length; i++)
-            stats[i].n0_kills.sort(byPKilled);
         return stats;
     };
 
@@ -736,9 +734,11 @@ angular.module('app.services', [])
 
     function getKills(id){
         for(var i = 0; i < stats.length; i++)
+            stats[i].n0_kills.sort(byPKilled);
+        for(var i = 0; i < stats.length; i++)
             if(id == stats[i].name)
                 return stats[i].n0_kills;
-        return stats[0].n0_kills;
+        return 0;
     }
 
     return{
