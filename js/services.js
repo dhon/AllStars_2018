@@ -484,7 +484,6 @@ angular.module('app.services', [])
         }
     };
 
-
     function getADays(){
         for(var i = 0; i < stats.length; i++){
             var days = stats[i].days;
