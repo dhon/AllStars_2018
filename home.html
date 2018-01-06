@@ -1,6 +1,36 @@
 <h5>Click a name to see their n0 kills.</h5>
 <table class="table table-striped table-bordered table-condensed">
 	<tr>
+		<th></th>
+		<th>Town Wins</th>
+		<th>Mafia Wins</th>
+		<th>Town Win %</th>
+		<th>D1|2 Sleeps</th>
+	<tr>
+	<tr>
+		<th>Total</th>
+		<th>{{gStats.g1_town + g2_gStats.town}}</th>
+		<th>{{gStats.g1_mafia + g2_gStats.mafia}}</th>
+		<th>{{gStats.pG}}</th>
+		<th>{{gStats.g1_sleep1 + gStats.g1_sleep2 + gStats.g2_sleep1 + gStats.g2_sleep2}}</th>
+	<tr>
+	<tr>
+		<th>G1</th>
+		<th>{{gStats.g1_town}}</th>
+		<th>{{gStats.g1_mafia}}</th>
+		<th>{{gStats.pG1}}</th>
+		<th>{{gStats.g1_sleep1 + gStats.g1_sleep2}}</th>
+	<tr>
+	<tr>
+		<th>G2</th>
+		<th>{{gStats.g2_town}}</th>
+		<th>{{gStats.g2_mafia}}</th>
+		<th>{{gStats.pG2}}</th>
+		<th>{{gStats.g2_sleep1 + gStats.g2_sleep2}}</th>
+	<tr>
+</table>
+<table class="table table-striped table-bordered table-condensed">
+	<tr>
 		<th>Name</th>
 		<th>Gs</th>
 		<th>W%</th>
