@@ -1,8 +1,8 @@
 angular.module('app.services', [])
 .factory('services', [function(){
 
-    var stats = [];
     var data = [];
+    var stats = [];
     var gStats = {};
 
     function resetData(){
@@ -714,7 +714,6 @@ angular.module('app.services', [])
                     gStats.g1_mafia++;
                 else
                     gStats.g2_mafia++;
-            console.log(data[i].lynched[0], data[i].lynched[1]);
             if(data[i].lynched[0] == 'SLEEP')
                 if(i % 2 == 0)
                     gStats.g1_sleep1++;
