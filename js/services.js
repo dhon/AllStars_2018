@@ -456,7 +456,7 @@ angular.module('app.services', [])
                     if(players[x].name == data[i].lynched[j])
                         players[x].killed = j+1;
             for(var j = 0; j < data[i].kill.length; j++)
-                for(var k = 0; k < data[i].kill[j].length; k++)
+                for(var k = 0; k < 2; k++)
                     for(var x = 0; x < players.length; x++)
                         if(data[i].kill[j].length == 2 && (data[i].kill[j][0].length != 1 || data[i].kill[j][1].length != 1)){
                             if(players[x].name == data[i].kill[j][k])
