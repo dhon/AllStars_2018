@@ -7,7 +7,7 @@ angular.module('app.services', [])
     function resetData(){
         stats = [];
         data = [];
-    }
+    };
 
     function getJSON(){
         for(var i = 0; i < 2; i++){
