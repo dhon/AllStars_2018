@@ -550,7 +550,7 @@ angular.module('app.services', [])
             for(var j = 0; j < stats[i].n0_kills.length; j++){
                 var killed = stats[i].n0_kills[j].killed;
                 var total = stats[i].n0_kills[j].total;
-                stats[i].n0_kills[j].pKilled = ((killed / total) * 100).toFixed() + ' %';
+                stats[i].n0_kills[j].pKilled = ((killed / total) * 100).toFixed();
             }
         }
     };
