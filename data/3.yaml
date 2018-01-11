@@ -1,0 +1,43 @@
+id: 01/10/2018 G1
+mafia:
+- Ryuzilla
+- Ryan
+- Steve
+kill:
+- - Ramza
+  - Siggywiggy
+- - Pope
+  - Striker
+- Rollo
+- Guy
+cop: Siggywiggy
+check:
+- Striker
+medic: Guy
+save:
+- Striker
+- Ocane
+- Jan
+- Ocane
+vigilante: Pope
+shot:
+- NONE
+- Steve
+vanilla_town:
+- Danimal
+- Ocane
+- Striker
+- Rollo
+- Jan
+- Ramza
+- Double A
+- Colin
+- Demon
+lynched:
+- Danimal
+- Colin
+- Double A
+- SLEEP
+f3_win:
+f3_loss:
+winner: Mafia
