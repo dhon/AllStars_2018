@@ -477,8 +477,8 @@ angular.module('app.services', [])
                     if(players[x].name != data[i].save[data[i].shot.length-1])
                         players[x].killed = data[i].shot.length-1;
                     else
-                        for(var y = 0; data[i].kills[data[i].shot.length-1].length; y++)
-                            if(players[x].name == data[i].kills[data[i].shot.length-1][y])
+                        for(var y = 0; data[i].kill[data[i].shot.length-1].length; y++)
+                            if(players[x].name == data[i].kill[data[i].shot.length-1][y])
                                 players[x].killed = data[i].shot.length-1;
             for(var j = 0; j < stats.length; j++)
                 for(var x = 0; x < players.length; x++)
