@@ -1,0 +1,23 @@
+th {
+  text-align: center;
+}
+td {
+  text-align: right;
+}
+tr:nth-child(odd){
+  background-color: #e6e6e6;
+}
+table.auto {
+  width: auto;
+}
+tr.head th {
+  background-color: gray;
+}
+tr.sticky th {
+  background-color: gray;
+  position: sticky;
+  top: -1px;
+}
+.left {
+  border-left: 1px solid gray;
+}

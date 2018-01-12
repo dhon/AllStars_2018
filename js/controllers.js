@@ -7,5 +7,6 @@ angular.module("app.controllers", [])
 .controller("killsCtrl", function($scope, $stateParams, $location, services) {
     console.log("Kills Controller is Working!");
     $scope.id = $stateParams.id;
+    $scope.stats = services.getData();
     $scope.kills = services.getKills($scope.id);
 });
