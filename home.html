@@ -1,35 +1,5 @@
 <h5>Click a name to see their n0 kills.</h5>
 <table class="table auto">
-	<tr class="head">
-		<th></th>
-		<th>Town Wins</th>
-		<th>Mafia Wins</th>
-		<th>Town Win %</th>
-		<th>D1/2 Sleeps</th>
-	</tr>
-	<tr>
-		<td><b>G1</b></td>
-		<td>{{gStats.g1_town}}</td>
-		<td>{{gStats.g1_mafia}}</td>
-		<td>{{gStats.pG1}}</td>
-		<td>{{gStats.g1_sleep1 + gStats.g1_sleep2}}</td>
-	</tr>
-	<tr>
-		<td><b>G2</b></td>
-		<td>{{gStats.g2_town}}</td>
-		<td>{{gStats.g2_mafia}}</td>
-		<td>{{gStats.pG2}}</td>
-		<td>{{gStats.g2_sleep1 + gStats.g2_sleep2}}</td>
-	</tr>
-	<tr>
-		<td><b>Total</b></td>
-		<td>{{gStats.g1_town + gStats.g2_town}}</td>
-		<td>{{gStats.g1_mafia + gStats.g2_mafia}}</td>
-		<td>{{gStats.pG}}</td>
-		<td>{{gStats.g1_sleep1 + gStats.g1_sleep2 + gStats.g2_sleep1 + gStats.g2_sleep2}}</td>
-	</tr>
-</table>
-<table class="table auto">
 	<tr class="sticky">
 		<th>Name</th>
 		<th>Gs</th>
@@ -91,5 +61,35 @@
 		<td>{{player.roll_vigi}}</td>
 		<td class="left">{{player.pTown}}</td>
 		<td>{{player.pPR}}</td>
+	</tr>
+</table>
+<table class="table auto">
+	<tr class="head">
+		<th></th>
+		<th>Town Wins</th>
+		<th>Mafia Wins</th>
+		<th>Town Win %</th>
+		<th>D1/2 Sleeps</th>
+	</tr>
+	<tr>
+		<td><b>G1</b></td>
+		<td>{{gStats.g1_town}}</td>
+		<td>{{gStats.g1_mafia}}</td>
+		<td>{{gStats.pG1}}</td>
+		<td>{{gStats.g1_sleep1 + gStats.g1_sleep2}}</td>
+	</tr>
+	<tr>
+		<td><b>G2</b></td>
+		<td>{{gStats.g2_town}}</td>
+		<td>{{gStats.g2_mafia}}</td>
+		<td>{{gStats.pG2}}</td>
+		<td>{{gStats.g2_sleep1 + gStats.g2_sleep2}}</td>
+	</tr>
+	<tr>
+		<td><b>Total</b></td>
+		<td>{{gStats.g1_town + gStats.g2_town}}</td>
+		<td>{{gStats.g1_mafia + gStats.g2_mafia}}</td>
+		<td>{{gStats.pG}}</td>
+		<td>{{gStats.g1_sleep1 + gStats.g1_sleep2 + gStats.g2_sleep1 + gStats.g2_sleep2}}</td>
 	</tr>
 </table>
