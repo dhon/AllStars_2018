@@ -1,15 +1,19 @@
 <h5>{{id}}'s n0 Kills <a href="#/home" ui-sref="home">Home</a></h5>
-<table class="table auto">
-	<tr class="sticky">
-		<th>Name</th>
-		<th>% Killed</th>
-		<th>Killed</th>
-		<th>Total</th>
-	</tr>
-	<tr ng-repeat="player in kills">
-		<td>{{player.name}}</td>
-		<td>{{player.pKilled}}</td>
-		<td>{{player.killed}}</td>
-		<td>{{player.total}}</td>
-	</tr>
+<table id="killsTable" class="table auto">
+	<thead>
+		<tr class="sticky">
+			<th>Name</th>
+			<th>% Killed</th>
+			<th>Killed</th>
+			<th>Total</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-repeat="player in kills">
+			<td>{{player.name}}</td>
+			<td>{{player.pKilled}}</td>
+			<td>{{player.killed}}</td>
+			<td>{{player.total}}</td>
+		</tr>
+	</tbody>
 </table>

@@ -1,67 +1,71 @@
-<h5>Click a name to see their n0 kills.</h5>
-<table class="table auto">
-	<tr class="sticky">
-		<th>Name</th>
-		<th>Gs</th>
-		<th>Win%</th>
-		<th>W</th>
-		<th>L</th>
-		<th>Town<br>Win%</th>
-		<th>T<br>W</th>
-		<th>T<br>L</th>
-		<th>Mafia<br>Win%</th>
-		<th>M<br>W</th>
-		<th>M<br>L</th>
-		<th>Av<br>Ds</th>
-		<th>n0</th>
-		<th>n0<br>s</th>
-		<th>F3<br>W</th>
-		<th>F3<br>L</th>
-		<th>Vig<br>Hit</th>
-		<th>Vig<br>Mis</th>
-		<th>Mf<br>Ly</th>
-		<th>VT<br>Ly</th>
-		<th>PR<br>Ly</th>
-		<th>Mf<br>Sh</th>
-		<th>VT<br>Sh</th>
-		<th>PR<br>Sh</th>
-		<th>C</th>
-		<th>M</th>
-		<th>V</th>
-		<th>% Tn</th>
-		<th>% PR</th>
-	</tr>
-	<tr ng-repeat="player in stats">
-		<td ui-sref="kills({id: player.name})"><b>{{player.name}}</b></td>
-		<td>{{player.played}}</td>
-		<td class="left">{{player.pWin}}</td>
-		<td>{{player.win_town + player.win_mafia}}</td>
-		<td>{{player.loss_town + player.loss_mafia}}</td>
-		<td class="left">{{player.pTownWin}}</td>
-		<td>{{player.win_town}}</td>
-		<td>{{player.loss_town}}</td>
-		<td class="left">{{player.pMafiaWin}}</td>
-		<td>{{player.win_mafia}}</td>
-		<td>{{player.loss_mafia}}</td>
-		<td class="left">{{player.aDays}}</td>
-		<td>{{player.n0}}</td>
-		<td>{{player.n0_save}}</td>
-		<td class="left">{{player.f3_win}}</td>
-		<td>{{player.f3_loss}}</td>
-		<td class="left">{{player.vigi_hit}}</td>
-		<td>{{player.vigi_miss}}</td>
-		<td class="left">{{player.lynch_mafia}}</td>
-		<td>{{player.lynch_vt}}</td>
-		<td>{{player.lynch_pr}}</td>
-		<td class="left">{{player.shot_mafia}}</td>
-		<td>{{player.shot_vt}}</td>
-		<td>{{player.shot_pr}}</td>
-		<td class="left">{{player.roll_cop}}</td>
-		<td>{{player.roll_medic}}</td>
-		<td>{{player.roll_vigi}}</td>
-		<td class="left">{{player.pTown}}</td>
-		<td>{{player.pPR}}</td>
-	</tr>
+<h5>Click a name to see their n0 kills. Click a column to sort by it.</h5>
+<table id="statsTable" class="table auto sortable">
+	<thead>
+		<tr class="sticky">
+			<th>Name</th>
+			<th>Gs</th>
+			<th>Win%</th>
+			<th>W</th>
+			<th>L</th>
+			<th>Town<br>Win%</th>
+			<th>T<br>W</th>
+			<th>T<br>L</th>
+			<th>Mafia<br>Win%</th>
+			<th>M<br>W</th>
+			<th>M<br>L</th>
+			<th>Av<br>Ds</th>
+			<th>n0</th>
+			<th>n0<br>s</th>
+			<th>F3<br>W</th>
+			<th>F3<br>L</th>
+			<th>Vig<br>Hit</th>
+			<th>Vig<br>Mis</th>
+			<th>Mf<br>Ly</th>
+			<th>VT<br>Ly</th>
+			<th>PR<br>Ly</th>
+			<th>Mf<br>Sh</th>
+			<th>VT<br>Sh</th>
+			<th>PR<br>Sh</th>
+			<th>C</th>
+			<th>M</th>
+			<th>V</th>
+			<th>% Tn</th>
+			<th>% PR</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-repeat="player in stats">
+			<td ui-sref="kills({id: player.name})"><b>{{player.name}}</b></td>
+			<td>{{player.played}}</td>
+			<td class="left">{{player.pWin}}</td>
+			<td>{{player.win_town + player.win_mafia}}</td>
+			<td>{{player.loss_town + player.loss_mafia}}</td>
+			<td class="left">{{player.pTownWin}}</td>
+			<td>{{player.win_town}}</td>
+			<td>{{player.loss_town}}</td>
+			<td class="left">{{player.pMafiaWin}}</td>
+			<td>{{player.win_mafia}}</td>
+			<td>{{player.loss_mafia}}</td>
+			<td class="left">{{player.aDays}}</td>
+			<td>{{player.n0}}</td>
+			<td>{{player.n0_save}}</td>
+			<td class="left">{{player.f3_win}}</td>
+			<td>{{player.f3_loss}}</td>
+			<td class="left">{{player.vigi_hit}}</td>
+			<td>{{player.vigi_miss}}</td>
+			<td class="left">{{player.lynch_mafia}}</td>
+			<td>{{player.lynch_vt}}</td>
+			<td>{{player.lynch_pr}}</td>
+			<td class="left">{{player.shot_mafia}}</td>
+			<td>{{player.shot_vt}}</td>
+			<td>{{player.shot_pr}}</td>
+			<td class="left">{{player.roll_cop}}</td>
+			<td>{{player.roll_medic}}</td>
+			<td>{{player.roll_vigi}}</td>
+			<td class="left">{{player.pTown}}</td>
+			<td>{{player.pPR}}</td>
+		</tr>
+	</tbody>
 </table>
 <table class="table auto">
 	<tr class="head">
