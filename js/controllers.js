@@ -4,6 +4,7 @@ angular.module("app.controllers", [])
     $scope.stats = services.getData();
     $scope.gStats = services.getGData();
     $(document).ready(function(){$("#statsTable").tablesorter();});
+    $(document).ready(function(){$("#statsTable9").tablesorter();});
 })
 .controller("killsCtrl", function($scope, $stateParams, $location, services) {
     console.log("Kills Controller is Working!");
