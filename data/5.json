@@ -1,0 +1,56 @@
+{
+  "id": "01/17/2018 G1",
+  "mafia": [
+    "Freak",
+    "Nydus",
+    "Boobles"
+  ],
+  "kill": [
+    [
+      "Rollo",
+      "kny"
+    ],
+    [
+      "Double A",
+      "Pope"
+    ],
+    [
+      "Younguns",
+      "Fonti"
+    ]
+  ],
+  "cop": "Younguns",
+  "check": [
+    "Rollo",
+    "Ryuzilla",
+    "Joey"
+  ],
+  "medic": "Ryan",
+  "save": [
+    "Joey"
+  ],
+  "vigilante": "Pope",
+  "shot": [
+    "NONE",
+    "NONE"
+  ],
+  "vanilla_town": [
+    "Joey",
+    "Ryuzilla",
+    "Ramza",
+    "Fonti",
+    "Slip",
+    "Rollo",
+    "Colin",
+    "Double A",
+    "kny"
+  ],
+  "lynched": [
+    "Ryan",
+    "Colin",
+    "Joey"
+  ],
+  "f3_win": null,
+  "f3_loss": null,
+  "winner": "Mafia"
+}
