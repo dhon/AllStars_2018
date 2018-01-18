@@ -576,14 +576,14 @@ angular.module('app.services', [])
                             if(players[a] == data[i].kill[x][y])
                                 found = true;
                         if(!found)
-                            console.log('NAME ERROR: Game ' + i + ' kill [' + x + '][' + y + ']');
+                            console.log('NAME ERROR: Game ' + (i+1) + ' kill [' + x + '][' + y + ']');
                     }else{
                         var found = false;
                         for(var a = 0; a < players.length; a++)
                             if(players[a] == data[i].kill[x])
                                 found = true;
                         if(!found)
-                            console.log('NAME ERROR: Game ' + i + ' kill [' + x + ']');
+                            console.log('NAME ERROR: Game ' + (i+1) + ' kill [' + x + ']');
                     }
                 }
             }
@@ -596,7 +596,7 @@ angular.module('app.services', [])
                     }
                 }
                 if(!found)
-                    console.log('NAME ERROR: Game ' + i + ' check [' + x + ']');
+                    console.log('NAME ERROR: Game ' + (i+1) + ' check [' + x + ']');
             }
             for(var x = 0; x < data[i].save.length; x++){
                 var found = false;
@@ -607,29 +607,29 @@ angular.module('app.services', [])
                     }
                 }
                 if(!found)
-                    console.log('NAME ERROR: Game ' + i + ' save [' + x + ']');
+                    console.log('NAME ERROR: Game ' + (i+1) + ' save [' + x + ']');
             }
             for(var x = 0; x < data[i].shot.length; x++){
                 var found = false;
                 for(var a = 0; a < players.length; a++){
-                    if(players[a] == data[i].shot[x] || 'NONE' == data[i].shot[x]){
+                    if(players[a] == data[i].shot[x] || data[i].shot[x] == 'NONE'){
                         found = true;
                         break;
                     }
                 }
                 if(!found)
-                    console.log('NAME ERROR: Game ' + i + ' shot [' + x + ']');
+                    console.log('NAME ERROR: Game ' + (i+1) + ' shot [' + x + ']');
             }
             for(var x = 0; x < data[i].lynched.length; x++){
                 var found = false;
                 for(var a = 0; a < players.length; a++){
-                    if(players[a] == data[i].lynched[x] || 'SLEEP' == data[i].lynched[x]){
+                    if(players[a] == data[i].lynched[x] || data[i].lynched[x] == 'SLEEP'){
                         found = true;
                         break;
                     }
                 }
                 if(!found)
-                    console.log('NAME ERROR: Game ' + i + ' lynched [' + x + ']');
+                    console.log('NAME ERROR: Game ' + (i+1) + ' lynched [' + x + ']');
             }
             if(data[i].f3_win != null){
                 for(var x = 0; x < data[i].f3_win.length; x++){
@@ -641,7 +641,7 @@ angular.module('app.services', [])
                         }
                     }
                     if(!found)
-                        console.log('NAME ERROR: Game ' + i + ' f3_win [' + x + ']');
+                        console.log('NAME ERROR: Game ' + (i+1) + ' f3_win [' + x + ']');
                 }
             }
             if(data[i].f3_loss != null){
@@ -654,7 +654,7 @@ angular.module('app.services', [])
                         }
                     }
                     if(!found)
-                        console.log('NAME ERROR: Game ' + i + ' f3_loss [' + x + ']');
+                        console.log('NAME ERROR: Game ' + (i+1) + ' f3_loss [' + x + ']');
                 }
             }
         }
