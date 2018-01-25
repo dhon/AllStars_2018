@@ -1,0 +1,44 @@
+id: 01/24/2018 G1
+mafia:
+- Joey
+- Gilbert
+- Double A
+kill:
+- - Colin
+  - Ramza
+- - Ryan
+  - Rollo
+- Rollo
+- Bearsquared
+cop: Striker
+check:
+- Ramza
+- Gilbert
+- Joey
+- Double A
+medic: Ryan
+save:
+- Pope
+- Rollo
+vigilante: Ramza
+shot:
+- NONE
+vanilla_town:
+- Colin
+- Pat
+- Demon
+- Pope
+- Steve
+- Bearsquared
+- Rollo
+- Ryuzilla
+- EffinNipples
+lynched:
+- Ryuzilla
+- Gilbert
+- SLEEP
+- Double A
+- Joey # concede
+f3_win:
+f3_loss:
+winner: Town
