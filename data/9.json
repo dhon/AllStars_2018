@@ -1,0 +1,62 @@
+{
+    "id": "01/31/2018 G1",
+    "mafia": [
+      "5",
+      "Pope",
+      "Striker"
+    ],
+    "kill": [
+      [
+        "Ghost 1",
+        "Ryuzilla"
+      ],
+      [
+        "kny",
+        "Rollo"
+      ],
+      "Ramza",
+      "Ramza",
+      "Watacolter"
+    ],
+    "cop": "Ramza",
+    "check": [
+      "kny",
+      "Pope",
+      "Colin",
+      "Noah"
+    ],
+    "medic": "Watacolter",
+    "save": [
+      "Rollo",
+      "Striker",
+      "Ramza",
+      "Colin",
+      "Noah"
+    ],
+    "vigilante": "Rollo",
+    "shot": [
+      "NONE",
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Noah",
+      "Mavelost",
+      "Ghost 1",
+      "Siggywiggy",
+      "kny",
+      "Colin",
+      "Dave Dob",
+      "Gilbert",
+      "Ryuzilla"
+    ],
+    "lynched": [
+      "Siggywiggy",
+      "Pope",
+      "Strik3r",
+      "Gilbert",
+      "5"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

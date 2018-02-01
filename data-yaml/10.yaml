@@ -1,0 +1,41 @@
+id: 01/31/2018 G2
+mafia:
+- Gnome
+- Pat
+- Noah
+kill:
+- - Steve
+  - Younguns
+- Striker
+- Gilbert
+cop: Ryuzilla
+check:
+- Striker
+- Pope
+- Gnome
+medic: Gilbert
+save:
+- Rollo
+- Mavelost
+- Ryuzilla
+vigilante: Mavelost
+shot:
+- NONE
+- Robik
+vanilla_town:
+- Rollo
+- Kny
+- Pope
+- "5"
+- Watacolter
+- Striker
+- Steve
+- Younguns
+- Robik
+lynched:
+- Pat
+- Noah
+- Gnome
+f3_win:
+f3_loss:
+winner: Town
