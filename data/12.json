@@ -1,0 +1,55 @@
+{
+    "id": "02/07/2018 G2",
+    "mafia": [
+      "Younguns",
+      "Rollo",
+      "Striker"
+    ],
+    "kill": [
+      [
+        "kny",
+        "Ocane"
+      ],
+      [
+        "kny",
+        "Colin"
+      ],
+      [
+        "Ryuzilla",
+        "Jared"
+      ]
+    ],
+    "cop": "Duke",
+    "check": [
+      "kny"
+    ],
+    "medic": "Ocane",
+    "save": [
+      "kny"
+    ],
+    "vigilante": "Jared",
+    "shot": [
+      "NONE",
+      "NONE",
+      "Gilbert"
+    ],
+    "vanilla_town": [
+      "Ryuzilla",
+      "Gilbert",
+      "Guy",
+      "Colin",
+      "Pat",
+      "kny",
+      "Pope",
+      "Mavelost",
+      "CSAngels"
+    ],
+    "lynched": [
+      "Duke",
+      "SLEEP",
+      "Pat"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Mafia"
+}

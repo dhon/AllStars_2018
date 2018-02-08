@@ -1,0 +1,68 @@
+{
+    "id": "02/07/2018 G1",
+    "mafia": [
+      "Unctious",
+      "Colin",
+      "Gilbert"
+    ],
+    "kill": [
+      [
+        "Joey",
+        "Pope"
+      ],
+      [
+        "CSAngels",
+        "Ramza"
+      ],
+      "Striker",
+      "Striker",
+      "Bearsquared",
+      "kny"
+    ],
+    "cop": "Striker",
+    "check": [
+      "kny",
+      "CSAngels",
+      "Bearsquared",
+      "Danimal"
+    ],
+    "medic": "Bearsquared",
+    "save": [
+      "Unctious",
+      "Guy",
+      "Striker",
+      "Ocane",
+      "kny"
+    ],
+    "vigilante": "Joey",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Danimal",
+      "kny",
+      "Guy",
+      "Ramza",
+      "CSAngels",
+      "Ocane",
+      "Rollo",
+      "Pope",
+      "Ryuzilla"
+    ],
+    "lynched": [
+      "Rollo",
+      "Colin",
+      "Gilbert",
+      "Danimal",
+      "Ocane",
+      "Unctious"
+    ],
+    "f3_win": [
+      "Ryuzilla",
+      "Guy"
+    ],
+    "f3_loss": [
+      "Unctious"
+    ],
+    "winner": "Town"
+}
