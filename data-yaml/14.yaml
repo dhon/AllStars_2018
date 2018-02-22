@@ -1,0 +1,50 @@
+id: 02/21/2018 G2
+mafia:
+- Mavelost
+- Garrinski
+- Noah
+kill:
+- - Ryuzilla
+  - Ryuzilla
+- - Colin
+  - Tyler
+- Tyler
+- Pat
+- Optic
+cop: Tyler
+check:
+- Rollo
+- Noah
+- Striker
+medic: Pat
+save:
+- Striker
+- Tyler
+- Striker
+- Optic
+vigilante: Optic
+shot:
+- NONE
+- NONE
+- NONE
+- Robik
+vanilla_town:
+- "5"
+- Double A
+- Ryuzilla
+- Robik
+- Pope
+- Colin
+- Striker
+- Karl
+- Rollo
+lynched:
+- SLEEP
+- Noah
+- Karl
+- Garrinski
+- SLEEP
+- Mavelost
+f3_win:
+f3_loss:
+winner: Town

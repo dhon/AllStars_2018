@@ -1,0 +1,58 @@
+{
+    "id": "02/21/2018 G1",
+    "mafia": [
+      "Rollo",
+      "Pope",
+      "Steep"
+    ],
+    "kill": [
+      [
+        "Robik",
+        "5"
+      ],
+      [
+        "5",
+        "Demon"
+      ],
+      "Joey",
+      "Ryan",
+      "Ryuzilla"
+    ],
+    "cop": "Ryan",
+    "check": [
+      "Ryuzilla",
+      "Pope",
+      "Colin",
+      "UNKNOWN"
+    ],
+    "medic": "Demon",
+    "save": [
+      "5",
+      "UNKNOWN"
+    ],
+    "vigilante": "5",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Ryuzilla",
+      "Joey",
+      "QuibsY",
+      "Colin",
+      "Ramza",
+      "Dave Dob",
+      "Karl",
+      "CPB",
+      "Robik"
+    ],
+    "lynched": [
+      "SLEEP",
+      "Pope",
+      "Ramza",
+      "QuibsY",
+      "Karl"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Mafia"
+}
