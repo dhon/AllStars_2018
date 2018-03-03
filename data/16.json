@@ -1,0 +1,58 @@
+{
+    "id": "02/28/2018 G2",
+    "mafia": [
+      "Colin",
+      "dLGN",
+      "CJ"
+    ],
+    "kill": [
+      [
+        "Ghost 1",
+        "Ryuzilla"
+      ],
+      [
+        "Rollo",
+        "5"
+      ],
+      "Augi",
+      "Augi"
+    ],
+    "cop": "Augi",
+    "check": [
+      "Siggywiggy",
+      "Rollo",
+      "Danimal",
+      "dLGN"
+    ],
+    "medic": "Rob Alloy",
+    "save": [
+      "dLGN",
+      "Rollo",
+      "Augi",
+      "Siggywiggy"
+    ],
+    "vigilante": "Ryuzilla",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Danimal",
+      "Tyler",
+      "QuibsY",
+      "Rollo",
+      "5",
+      "Siggywiggy",
+      "Garrinski",
+      "Pooch",
+      "Ghost 1"
+    ],
+    "lynched": [
+      "Tyler",
+      "Colin",
+      "dLGN",
+      "CJ"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

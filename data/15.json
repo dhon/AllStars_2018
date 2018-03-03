@@ -1,0 +1,63 @@
+{
+    "id": "02/28/2018 G1",
+    "mafia": [
+      "dLGN",
+      "Danimal",
+      "Steep"
+    ],
+    "kill": [
+      [
+        "Pope",
+        "Rollo"
+      ],
+      [
+        "Joey",
+        "Dave Dob"
+      ],
+      [
+        "Rob Alloy",
+        "Colin"
+      ],
+      [
+        "Rob Alloy",
+        "Ryuzilla"
+      ]
+    ],
+    "cop": "Joey",
+    "check": [
+      "Danimal",
+      "Rob Alloy"
+    ],
+    "medic": "Ryuzilla",
+    "save": [
+      "Joey",
+      "EffinNipples",
+      "Rob Alloy",
+      "EffinNipples"
+    ],
+    "vigilante": "EffinNipples",
+    "shot": [
+      "NONE",
+      "NONE",
+      "Moose"
+    ],
+    "vanilla_town": [
+      "Pat",
+      "Dave Dob",
+      "Moose",
+      "Rob Alloy",
+      "Tambo",
+      "Peeperz",
+      "Colin",
+      "Pope",
+      "Rollo"
+    ],
+    "lynched": [
+      "Peeperz",
+      "Tambo",
+      "Pat"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Mafia"
+}
