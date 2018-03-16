@@ -1,0 +1,45 @@
+id: 03/14/2018 G2
+mafia:
+- Double A
+- Siggywiggy
+- Colin
+kill:
+- - Pat
+  - Younguns
+- - Steve
+  - Boone
+- Jan
+- Ryuzilla
+cop: Ryuzilla
+check:
+- Younguns
+- Siggywiggy
+- kny
+- Dave Dob
+medic: Rollo
+save:
+- Ryuzilla
+- Jan
+- Ryuzilla
+- kny
+vigilante: Pat
+shot:
+- NONE
+vanilla_town:
+- Jared
+- Dave Dob
+- Jan
+- Steve
+- kny
+- Augi
+- Watacolter
+- Younguns
+- Boone
+lynched:
+- SLEEP
+- Siggywiggy
+- Double A
+- Colin
+f3_win:
+f3_loss:
+winner: Town

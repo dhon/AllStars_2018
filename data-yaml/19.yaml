@@ -1,0 +1,48 @@
+id: 03/14/2018 G1
+mafia:
+- Ryuzilla
+- Jan
+- Rollo
+kill:
+- - Pope
+  - Siggywiggy
+- - Guy
+  - Colin
+- - Ramza
+  - "5"
+- Joey
+- Joey
+cop: Guy
+check:
+- Augi
+- Double A
+medic: Watacolter
+save:
+- Rollo
+- Ramza
+- Ryuzilla
+- Joey
+- EffinNipples
+vigilante: Ramza
+shot:
+- NONE
+- Augi
+vanilla_town:
+- EffinNipples
+- Colin
+- Joey
+- Augi
+- Dave Dob
+- "5"
+- Double A
+- Pope
+- Siggywiggy
+lynched:
+- SLEEP
+- Double A
+- Ryuzilla
+- Jan
+- Rollo
+f3_win:
+f3_loss:
+winner: Town
