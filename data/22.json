@@ -1,0 +1,62 @@
+{
+    "id": "03/21/2018 G2",
+    "mafia": [
+      "Double A",
+      "Pharmie",
+      "CJ"
+    ],
+    "kill": [
+      [
+        "Colin",
+        "Younguns"
+      ],
+      [
+        "Colin",
+        "Siggywiggy"
+      ],
+      "Rollo",
+      "kny",
+      "Pope",
+      "Boone"
+    ],
+    "cop": "Pope",
+    "check": [
+      "QuibsY",
+      "Double A",
+      "Ryuzilla",
+      "Boone",
+      "Pharmie"
+    ],
+    "medic": "Rollo",
+    "save": [
+      "Colin",
+      "Siggywiggy",
+      "Pope"
+    ],
+    "vigilante": "Colin",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Ryuzilla",
+      "Jojo",
+      "QuibsY",
+      "David",
+      "Optic",
+      "kny",
+      "Boone",
+      "CJ",
+      "Younguns"
+    ],
+    "lynched": [
+      "Jojo",
+      "Double A",
+      "CJ",
+      "Optic",
+      "David",
+      "Pharmie"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

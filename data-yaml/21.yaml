@@ -1,0 +1,42 @@
+id: 03/21/2018 G1
+mafia:
+- Siggywiggy
+- Augi
+- Joey
+kill:
+- - Ramza.
+  - Nat
+- - Younguns
+  - Ocane
+- David
+- Colin
+cop: Nat
+check:
+- Ryuzilla
+medic: Younguns
+save:
+- Ryuzilla
+- Rollo
+vigilante: David
+shot:
+- NONE
+- NONE
+- Pope
+vanilla_town:
+- Ramza
+- Ryuzilla
+- Colin
+- Jojo
+- Steep
+- Garrinski
+- Rollo
+- Ocane
+- Pope
+lynched:
+- Garrinski
+- Augi
+- Siggywiggy
+- Joey
+f3_win:
+f3_loss:
+winner: Town
