@@ -1,0 +1,45 @@
+id: 03/28/2018 G1
+mafia:
+- Dave Dob
+- Ryuzilla
+- Ramza
+kill:
+- - "5"
+  - Siggywiggy
+- - kny
+  - Garrinski
+- Wes
+- Greg
+cop: kny
+check:
+- Younguns
+- dLGN
+medic: Wes
+save:
+- Younguns
+- Rollo
+- Greg
+vigilante: Greg
+shot:
+- NONE
+- NONE
+- NONE
+- Ryuzilla
+vanilla_town:
+- Garrinski
+- Siggywiggy
+- Younguns
+- Jared
+- "5"
+- Steve
+- Colin
+- Rollo
+- dLGN
+lynched:
+- Colin
+- Dave Dob
+- SLEEP
+- Ramza
+f3_win:
+f3_loss:
+winner: Town

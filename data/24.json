@@ -1,0 +1,56 @@
+{
+    "id": "03/28/2018 G2",
+    "mafia": [
+      "Ryuzilla",
+      "kny",
+      "Tunak"
+    ],
+    "kill": [
+      [
+        "dLGN",
+        "Younguns"
+      ],
+      [
+        "Siggywiggy",
+        "Rollo"
+      ],
+      "Garrinski"
+    ],
+    "cop": "Banks",
+    "check": [
+      "Ryuzilla",
+      "kny",
+      "Steve"
+    ],
+    "medic": "Garrinski",
+    "save": [
+      "Rollo",
+      "Ryuzilla",
+      "Colin"
+    ],
+    "vigilante": "Colin",
+    "shot": [
+      "NONE",
+      "NONE",
+      "Tunak"
+    ],
+    "vanilla_town": [
+      "dLGN",
+      "Younguns",
+      "Rollo",
+      "Siggywiggy",
+      "Dave Dob",
+      "Steve",
+      "Jared",
+      "Watacolter",
+      "Duke"
+    ],
+    "lynched": [
+      "SLEEP",
+      "Ryuzilla",
+      "kny"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}
