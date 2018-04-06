@@ -1,0 +1,45 @@
+id: 04/04/2018 G1
+mafia:
+- Ramza
+- Jan
+- Augi
+kill:
+- - kny
+  - Striker
+- - dLGN
+  - Ryuzilla
+- Joey
+- Pope
+- Rollo
+cop: Steep
+check:
+- Pope
+- dLGN
+- Ramza
+medic: Siggywiggy
+save:
+- Rollo
+- Ramza
+vigilante: Joey
+shot:
+- NONE
+- Siggywiggy
+vanilla_town:
+- Pope
+- Striker
+- Dave Dob
+- Colin
+- dLGN
+- kny
+- Rollo
+- Ryuzilla
+- Watacolter
+lynched:
+- SLEEP
+- Jan
+- Steep
+- SLEEP
+- Colin
+f3_win:
+f3_loss:
+winner: Mafia

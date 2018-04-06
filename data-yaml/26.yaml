@@ -1,0 +1,46 @@
+id: 04/04/2018 G2
+mafia:
+- Jared
+- Siggywiggy
+- Tyler
+kill:
+- - Dave Dob
+  - Pat
+- - Ryuzilla
+  - dLGN
+- - younguns
+  - younguns
+- Garrinski
+- Striker
+cop: Ryuzilla
+check:
+- younguns
+- Striker
+medic: younguns
+save:
+- Ryuzilla
+- dLGN
+- Striker
+vigilante: Garrinski
+shot:
+- NONE
+- Watacolter
+vanilla_town:
+- Augi
+- Dave Dob
+- dLGN
+- kny
+- Pat
+- Rollo
+- Steep
+- Striker
+- Watacolter
+lynched:
+- kny
+- Rollo
+- Siggywiggy
+- SLEEP
+- Steep
+f3_win:
+f3_loss:
+winner: Mafia
