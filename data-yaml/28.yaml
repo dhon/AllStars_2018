@@ -1,0 +1,49 @@
+id: 04/11/2018 G2
+mafia:
+- Tyler
+- Pooch
+- Gilbert
+kill:
+- - Robik
+  - Robik
+- - Ryuzilla
+  - Siggywiggy
+- Rollo
+- Rollo
+- Colin
+- Younguns
+cop: Robik
+check:
+- Ryuzilla #fake
+medic: Younguns
+save:
+- Rollo
+- kny #fake
+- Rollo
+- kny
+- Colin
+- kny #fake
+vigilante: Siggywiggy
+shot:
+- NONE
+- NONE
+vanilla_town:
+- Ryuzilla
+- Colin
+- Jaleb
+- Pat
+- Watacolter
+- Augi
+- Rollo
+- Pozzai
+- kny
+lynched:
+- SLEEP
+- Tyler
+- Jaleb
+- Pozzai
+- Pooch
+- Gilbert
+f3_win:
+f3_loss:
+winner: Town

@@ -1,0 +1,62 @@
+{
+    "id": "04/11/2018 G2",
+    "mafia": [
+      "Tyler",
+      "Pooch",
+      "Gilbert"
+    ],
+    "kill": [
+      [
+        "Robik",
+        "Robik"
+      ],
+      [
+        "Ryuzilla",
+        "Siggywiggy"
+      ],
+      "Rollo",
+      "Rollo",
+      "Colin",
+      "Younguns"
+    ],
+    "cop": "Robik",
+    "check": [
+      "Ryuzilla"
+    ],
+    "medic": "Younguns",
+    "save": [
+      "Rollo",
+      "kny",
+      "Rollo",
+      "kny",
+      "Colin",
+      "kny"
+    ],
+    "vigilante": "Siggywiggy",
+    "shot": [
+      "NONE",
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Ryuzilla",
+      "Colin",
+      "Jaleb",
+      "Pat",
+      "Watacolter",
+      "Augi",
+      "Rollo",
+      "Pozzai",
+      "kny"
+    ],
+    "lynched": [
+      "SLEEP",
+      "Tyler",
+      "Jaleb",
+      "Pozzai",
+      "Pooch",
+      "Gilbert"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

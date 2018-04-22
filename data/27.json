@@ -1,0 +1,68 @@
+{
+  "id": "04/11/2018 G1",
+  "mafia": [
+    "Watacolter",
+    "QuibsY",
+    "Younguns"
+  ],
+  "kill": [
+    [
+      "Joey",
+      "dLGN"
+    ],
+    [
+      "Ryuzilla",
+      "Colin"
+    ],
+    [
+      "Pat",
+      "kny"
+    ],
+    "Dave Dob",
+    "Rollo"
+  ],
+  "cop": "Augi",
+  "check": [
+    "kny",
+    "Pat",
+    "Siggywiggy",
+    "Rollo",
+    "Younguns"
+  ],
+  "medic": "Tyler",
+  "save": [
+    "Younguns"
+  ],
+  "vigilante": "Dave Dob",
+  "shot": [
+    "NONE",
+    "NONE",
+    "Siggywiggy"
+  ],
+  "vanilla_town": [
+    "Pat",
+    "Rollo",
+    "Ryuzilla",
+    "Colin",
+    "Siggywiggy",
+    "dLGN",
+    "Ramza",
+    "Kny",
+    "Joey"
+  ],
+  "lynched": [
+    "Tyler",
+    "SLEEP",
+    "QuibsY",
+    "Watacolter",
+    "Augi"
+  ],
+  "f3_win": [
+    "Younguns"
+  ],
+  "f3_loss": [
+    "Augi",
+    "Ramza"
+  ],
+  "winner": "Mafia"
+}

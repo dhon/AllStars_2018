@@ -8,15 +8,15 @@ kill:
   - Pat
 - - Ryuzilla
   - dLGN
-- - younguns
-  - younguns
+- - Younguns
+  - Younguns
 - Garrinski
 - Striker
 cop: Ryuzilla
 check:
-- younguns
+- Younguns
 - Striker
-medic: younguns
+medic: Younguns
 save:
 - Ryuzilla
 - dLGN
