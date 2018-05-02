@@ -1,0 +1,53 @@
+id: 04/25/2018 G1
+mafia:
+- Pat
+- Nydus
+- dLGN
+kill:
+- - Ghost 1
+  - Ghost 2
+- - Garrinski
+  - Siggywiggy
+- Ryuzilla
+- Ryuzilla
+- "5"
+- Danny
+cop: Ryuzilla
+check:
+- dLGN
+- Siggywiggy
+- "5"
+- Noah
+medic: Joey
+save:
+- Ryuzilla #fake
+- dLGN
+- Ryuzilla
+vigilante: Danny
+shot:
+- NONE
+- NONE
+- Colin
+vanilla_town:
+- "5"
+- Noah
+- Guy
+- Colin
+- Garrinski
+- Siggywiggy
+- Ramza
+- Ghost 1
+- Ghost 2
+lynched:
+- Ramza
+- dLGN
+- Joey
+- SLEEP
+- Nydus
+- Noah
+f3_win:
+- Nydus
+f3_loss:
+- Guy
+- Noah
+winner: Mafia

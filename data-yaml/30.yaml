@@ -1,0 +1,47 @@
+id: 04/25/2018 G2
+mafia:
+- Younguns
+- Danny
+- Garrinski
+kill:
+- - Ghost 1
+  - Colin
+- - dLGN
+  - Alesh
+- - Rollo
+  - Rollo
+- Siggywiggy
+cop: Rollo
+check:
+- Younguns
+- Siggywiggy
+- Danny
+medic: Noah
+save:
+- Danny
+- Younguns
+- Rollo
+- Danny
+vigilante: Pat
+shot:
+- NONE
+- NONE
+- Younguns
+vanilla_town:
+- Ryuzilla
+- Siggywiggy
+- Alesh
+- dLGN
+- Colin
+- Mavelost
+- Andy
+- CJ
+- Ghost 1
+lynched:
+- Andy
+- Mavelost
+- Garrinski
+- Danny
+f3_win:
+f3_loss:
+winner: Town
