@@ -1,0 +1,67 @@
+{
+    "id": "05/02/2018 G1",
+    "mafia": [
+      "Siggywiggy",
+      "Ramza",
+      "Dave Dob"
+    ],
+    "kill": [
+      [
+        "Jan",
+        "Ghost 1"
+      ],
+      [
+        "Joey",
+        "Augi"
+      ],
+      "Younguns",
+      "Garrinski",
+      "QuibsY",
+      "Guy"
+    ],
+    "cop": "Garrinski",
+    "check": [
+      "Joey",
+      "Dave Dob",
+      "Ramza",
+      "Ryuzilla"
+    ],
+    "medic": "Younguns",
+    "save": [
+      "dLGN",
+      "QuibsY",
+      "Guy"
+    ],
+    "vigilante": "Augi",
+    "shot": [
+      "NONE",
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Ryuzilla",
+      "Tyler",
+      "Greg",
+      "dLGN",
+      "Guy",
+      "QuibsY",
+      "Joey",
+      "Jan",
+      "Ghost 1"
+    ],
+    "lynched": [
+      "dLGN",
+      "Dave Dob",
+      "Ramza",
+      "Tyler",
+      "SLEEP",
+      "SLEEP"
+    ],
+    "f3_win": [
+      "Siggywiggy"
+    ],
+    "f3_loss": [
+      "Greg",
+      "Ryuzilla"
+    ],
+    "winner": "Mafia"
+}

@@ -1,0 +1,42 @@
+id: 05/02/2018 G2
+mafia:
+- Rollo
+- Younguns
+- Jaleb
+kill:
+- - Ryuzilla
+  - Siggywiggy
+- - Jan
+  - Mal
+- - Dave Dob
+  - Augi
+cop: Garrinski
+check:
+- Mal
+- Jan
+- Tyler
+medic: Ryuzilla
+save:
+- Younguns
+vigilante: Augi
+shot:
+- NONE
+- NONE
+- NONE
+vanilla_town:
+- Siggywiggy
+- dLGN
+- Steep
+- Mal
+- Jan
+- Dave Dob
+- Tyler
+- Pooch
+- Nat
+lynched:
+- Nat
+- dLGN
+- Pooch
+f3_win:
+f3_loss:
+winner: Mafia
