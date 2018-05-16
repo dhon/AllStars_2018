@@ -1,0 +1,59 @@
+{
+    "id": "04/18/2018 G1",
+    "mafia": [
+      "Rollo",
+      "Pope",
+      "Fonti"
+    ],
+    "kill": [
+      [
+        "Demon",
+        "Dave Dob"
+      ],
+      [
+        "dLGN",
+        "Joey"
+      ],
+      "Kiwi",
+      "Double A",
+      "Colin"
+    ],
+    "cop": "Kiwi",
+    "check": [
+      "Demon",
+      "Pope",
+      "Ryuzilla"
+    ],
+    "medic": "dLGN",
+    "save": [
+      "Siggywiggy",
+      "Ramza"
+    ],
+    "vigilante": "Colin",
+    "shot": [
+      "NONE",
+      "NONE",
+      "Rollo"
+    ],
+    "vanilla_town": [
+      "Ramza",
+      "Younguns",
+      "Steve",
+      "Siggywiggy",
+      "Dave Dob",
+      "Double A",
+      "Ryuzilla",
+      "Demon",
+      "Joey"
+    ],
+    "lynched": [
+      "SLEEP",
+      "Pope",
+      "Siggywiggy",
+      "SLEEP",
+      "Fonti"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

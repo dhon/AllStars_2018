@@ -1,0 +1,45 @@
+id: 04/18/2018 G2
+mafia:
+- Duke
+- Rollo
+- Dave Dob
+kill:
+- - Ghost 1
+  - Gilbert
+- - Fonti
+  - Jaleb
+- Storm
+- Storm
+cop: Jaleb
+check:
+- Danny
+- Dave Dob
+medic: Ryuzilla
+save:
+- Younguns
+- dLGN
+- Storm
+- dLGN
+vigilante: dLGN
+shot:
+- NONE
+- NONE
+- NONE
+- Rollo
+vanilla_town:
+- Storm
+- Younguns
+- Colin
+- CPB
+- Fonti
+- Gilbert
+- Danny
+- Pope
+- Ghost 1
+lynched:
+- Danny
+- Duke
+- Dave Dob
+f3_win:
+f3_loss:
+winner: Town
