@@ -1,0 +1,56 @@
+{
+    "id": "05/16/2018 G2",
+    "mafia": [
+      "Siggywiggy",
+      "Steep",
+      "Fonti"
+    ],
+    "kill": [
+      [
+        "Kny",
+        "Ryuzilla"
+      ],
+      [
+        "Duke",
+        "Ryuzilla"
+      ],
+      "Colin"
+    ],
+    "cop": "Colin",
+    "check": [
+      "dLGN",
+      "Garrinski",
+      "Augi"
+    ],
+    "medic": "Dave Dob",
+    "save": [
+      "Ryuzilla",
+      "Mal",
+      "Colin"
+    ],
+    "vigilante": "Rollo",
+    "shot": [
+      "NONE",
+      "NONE",
+      "Fonti"
+    ],
+    "vanilla_town": [
+      "Mal",
+      "QuibsY",
+      "Garrinski",
+      "Duke",
+      "Augi",
+      "Kny",
+      "Ryuzilla",
+      "Ryan",
+      "dLGN"
+    ],
+    "lynched": [
+      "SLEEP",
+      "Steep",
+      "Siggywiggy"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

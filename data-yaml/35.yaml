@@ -1,0 +1,39 @@
+id: 05/16/2018 G1
+mafia:
+- Ryuzilla
+- Fonti
+- Joey
+kill:
+- - Siggywiggy
+  - Ramza
+- - Colin
+  - Mal
+- - Garrinski
+  - Rollo
+cop: Ramza
+check:
+- Joey
+medic: Steep
+save:
+- Colin
+- Rollo
+vigilante: Siggywiggy
+shot:
+- NONE
+vanilla_town:
+- Mal
+- Greg
+- Colin
+- Rollo
+- Ryan
+- Younguns
+- Garrinski
+- Kny
+- Augi
+lynched:
+- Greg
+- Younguns
+- Steep
+f3_win:
+f3_loss:
+winner: Mafia
