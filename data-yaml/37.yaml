@@ -1,0 +1,53 @@
+id: 05/23/2018 G1
+mafia:
+- Dave Dob
+- Ramza
+- Turtle
+kill:
+- - Ghost 1
+  - Steep
+- - Rollo
+  - Ryuzilla
+- Storm
+- Storm
+- Pope
+- Joey
+cop: Storm
+check:
+- Joey
+- Dave Dob
+- Pope
+- Colin
+medic: Pope
+save:
+- Joey
+- Ramza
+- Storm
+- Garrinski
+- Joey
+vigilante: Steep
+shot:
+- NONE
+vanilla_town:
+- Siggywiggy
+- Colin
+- dLGN
+- Ryuzilla
+- "5"
+- Rollo
+- Joey
+- Garrinski
+- Ghost 1
+lynched:
+- Siggywiggy
+- Dave Dob
+- Ramza
+- Colin
+- "5"
+- Garrinski
+f3_win:
+- Turtle
+f3_loss:
+- dLGN
+- Garrinski
+winner: Mafia

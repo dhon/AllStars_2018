@@ -1,0 +1,41 @@
+id: 05/23/2018 G2
+mafia:
+- Templar
+- Siggywiggy
+- dLGN
+kill:
+- - Colin
+  - Dave Dob
+- - Pope
+  - Younguns
+- - Steep
+  - Ryuzilla
+cop: Colin
+check:
+- "5"
+medic: Younguns
+save:
+- Rollo
+- "5"
+vigilante: Steep
+shot:
+- NONE
+- NONE
+- Tyler
+vanilla_town:
+- Dave Dob
+- Plen
+- Rollo
+- "5"
+- Tyler
+- Augi
+- Pope
+- Ryuzilla
+- Garrinski
+lynched:
+- Garrinski
+- SLEEP
+- Augi
+f3_win:
+f3_loss:
+winner: Mafia
