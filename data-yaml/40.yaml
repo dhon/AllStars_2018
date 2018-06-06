@@ -1,0 +1,43 @@
+id: 05/30/2018 G2
+mafia:
+- Augi
+- Rollo
+- Alesh
+kill:
+- - Storm
+  - Ryan
+- - dLGN
+  - Ryuzilla
+- Double A
+- Ryuzilla #fake
+cop: Tyler
+check:
+- Colin
+- Younguns
+- "5"
+medic: "5"
+save:
+- Rollo
+- Ryuzilla
+- Double A
+vigilante: Ryan
+shot:
+- NONE
+vanilla_town:
+- Colin
+- Ryuzilla
+- Jaleb
+- dLGN
+- Double A
+- Younguns
+- Storm
+- Pope
+- Garrinski
+lynched:
+- Jaleb
+- Alesh
+- Augi
+- Rollo #concede
+f3_win:
+f3_loss:
+winner: Town

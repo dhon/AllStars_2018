@@ -1,0 +1,56 @@
+{
+    "id": "05/30/2018 G2",
+    "mafia": [
+      "Augi",
+      "Rollo",
+      "Alesh"
+    ],
+    "kill": [
+      [
+        "Storm",
+        "Ryan"
+      ],
+      [
+        "dLGN",
+        "Ryuzilla"
+      ],
+      "Double A",
+      "Ryuzilla"
+    ],
+    "cop": "Tyler",
+    "check": [
+      "Colin",
+      "Younguns",
+      "5"
+    ],
+    "medic": "5",
+    "save": [
+      "Rollo",
+      "Ryuzilla",
+      "Double A"
+    ],
+    "vigilante": "Ryan",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Colin",
+      "Ryuzilla",
+      "Jaleb",
+      "dLGN",
+      "Double A",
+      "Younguns",
+      "Storm",
+      "Pope",
+      "Garrinski"
+    ],
+    "lynched": [
+      "Jaleb",
+      "Alesh",
+      "Augi",
+      "Rollo"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

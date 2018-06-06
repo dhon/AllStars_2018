@@ -1,0 +1,50 @@
+id: 05/30/2018 G1
+mafia:
+- EffinNipples
+- Double A
+- Ryuzilla
+kill:
+- - Siggywiggy
+  - Rollo
+- - Siggywiggy
+  - Younguns
+- Pope
+- dLGN
+- Joey
+- Guy
+cop: dLGN
+check:
+- Guy
+- EffinNipples
+- Jan
+- Double A
+medic: Joey
+save:
+- Siggywiggy
+- Ryuzilla
+- dLGN
+- Jan
+- Ryuzilla
+vigilante: Rollo
+shot:
+- NONE
+vanilla_town:
+- Younguns
+- Jaleb
+- Guy
+- Ryan
+- Jan
+- Pope
+- Ramza
+- Siggywiggy
+- Colin
+lynched:
+- SLEEP
+- EffinNipples
+- Jaleb
+- Double A
+- Colin
+- Ryan
+f3_win:
+f3_loss:
+winner: Mafia
