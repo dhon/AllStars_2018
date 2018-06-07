@@ -9,17 +9,19 @@ kill:
 - - dLGN
   - Ryuzilla
 - Double A
-- Ryuzilla #fake
+- Tyler #fake
 cop: Tyler
 check:
 - Colin
 - Younguns
 - "5"
+- Ryuzilla #fake
 medic: "5"
 save:
 - Rollo
 - Ryuzilla
 - Double A
+- Tyler #fake
 vigilante: Ryan
 shot:
 - NONE
