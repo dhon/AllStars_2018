@@ -1,0 +1,43 @@
+id: 06/06/2018 G2
+mafia:
+- Pope
+- dLGN
+- Freak
+kill:
+- - Ghost 1
+  - Ghost 2
+- - Colin
+  - Younguns
+- - Ryuzilla
+  - Ryuzilla
+- - Storm
+  - Plen
+cop: Colin
+check:
+- RJ
+- Watacolter
+medic: Plen
+save:
+- NONE
+- Pope
+- Pozzai
+vigilante: Ghost 1
+shot:
+- NONE
+vanilla_town:
+- Storm
+- Watacolter
+- Ryuzilla
+- Younguns
+- RJ
+- Pozzai
+- Rollo
+- Tyler
+- Ghost 2
+lynched:
+- SLEEP
+- Watacolter
+- SLEEP
+f3_win:
+f3_loss:
+winner: Mafia

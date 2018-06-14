@@ -1,0 +1,47 @@
+id: 06/06/2018 G1
+mafia:
+- Colin
+- Ramza
+- Storm
+kill:
+- - Ryuzilla
+  - Augi
+- - Fonti
+  - Nydus
+- Younguns
+- Jan
+- Rollo
+cop: Younguns
+check:
+- Rollo
+- Ramza
+- Unctious
+medic: Augi
+save:
+- Younguns
+vigilante: Jan
+shot:
+- NONE
+- Freak
+vanilla_town:
+- Unctious
+- Jojo
+- Plen
+- Freak
+- Fonti
+- Rollo
+- Tyler
+- Nydus
+- Ryuzilla
+lynched:
+- Jojo
+- Colin
+- Ramza
+- Plen
+- Tyler
+f3_win:
+- Storm
+f3_loss:
+- Unctious
+- Tyler
+winner: Mafia
