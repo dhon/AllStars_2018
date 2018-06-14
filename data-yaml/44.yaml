@@ -1,0 +1,41 @@
+id: 06/13/2018 G2
+mafia:
+- RJ
+- Joey
+- Tyler
+kill:
+- - Ryan
+  - Steep
+- Striker
+- Joey
+- Plen
+cop: Ryan
+check:
+- Siggywiggy
+- Joey
+medic: Plen
+save:
+- Ryan
+- Joey
+- Ryan
+vigilante: Younguns
+shot:
+- NONE
+- NONE
+- RJ
+vanilla_town:
+- Ryuzilla
+- Colin
+- dLGN
+- Siggywiggy
+- Striker
+- Rollo
+- Garrinski
+- Storm
+- Steep
+lynched:
+- Tyler
+- Joey
+f3_win:
+f3_loss:
+winner: Town

@@ -1,0 +1,45 @@
+id: 06/13/2018 G1
+mafia:
+- dLGN
+- Colin
+- Storm
+kill:
+- - RJ
+  - Younguns
+- Joey
+- Striker
+- Rollo
+cop: Rollo
+check:
+- Pope
+- dLGN
+- Garrinski
+- Colin
+medic: Striker
+save:
+- Joey
+- Pope
+- Rollo
+vigilante: Steep
+shot:
+- NONE
+- NONE
+- NONE
+- Colin
+vanilla_town:
+- Garrinski
+- Ryuzilla
+- Younguns
+- RJ
+- Pope
+- Plen
+- Ryan
+- Joey
+- Siggywiggy
+lynched:
+- Storm
+- Pope
+- dLGN
+f3_win:
+f3_loss:
+winner: Town
