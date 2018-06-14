@@ -601,7 +601,7 @@ angular.module('app.services', [])
             for(var x = 0; x < data[i].save.length; x++){
                 var found = false;
                 for(var a = 0; a < players.length; a++){
-                    if(players[a] == data[i].save[x]){
+                    if(players[a] == data[i].save[x] || data[i].save[x] == 'NONE'){
                         found = true;
                         break;
                     }
