@@ -1,0 +1,50 @@
+id: 06/13/2018 G1
+mafia:
+- Pope
+- Freak
+- Joey
+kill:
+- - Robik
+  - RJ
+- - Siggywiggy
+  - RJ
+- - Rollo
+  - Rollo
+- - Ryan
+  - Ryan
+- Ryuzilla
+- "5" #fake
+cop: Rollo
+check:
+- Ryan
+- Plen
+- dLGN
+medic: Striker
+save:
+- RJ
+vigilante: Ryan
+shot:
+- NONE
+- NONE
+- NONE
+- Pope
+vanilla_town:
+- "5"
+- Plen
+- Siggywiggy
+- Colin
+- RJ
+- Jan
+- Ryuzilla
+- dLGN
+- Robik
+lynched:
+- Striker
+- Colin
+- dLGN
+- SLEEP
+- Joey
+- Freak #fake
+f3_win:
+f3_loss:
+winner: Town
