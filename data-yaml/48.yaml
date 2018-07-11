@@ -1,0 +1,44 @@
+id: 06/27/2018 G2
+mafia:
+- dLGN
+- Storm
+- Spectrum
+kill:
+- - RJ
+  - Rollo
+- - Ryuzilla
+  - Rollo
+- - Mavelost
+  - Peeperz
+- Pozzai
+cop: Pozzai
+check:
+- Duke
+- Ryan
+- dLGN
+medic: RJ
+save:
+- Rollo
+vigilante: Peeperz
+shot:
+- NONE
+- NONE
+- Ryan
+vanilla_town:
+- Jaleb
+- Ryuzilla
+- Ryan
+- Duke
+- Colin
+- Garrinski
+- Rob Alloy
+- Rollo
+- Mavelost
+lynched:
+- Colin
+- Jaleb
+- dLGN
+- Duke
+f3_win:
+f3_loss:
+winner: Mafia

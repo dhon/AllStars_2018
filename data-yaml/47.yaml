@@ -1,0 +1,45 @@
+id: 06/27/2018 G1
+mafia:
+- Ryuzilla
+- Demon
+- QuibsY
+kill:
+- - Nydus
+  - Ramza
+- - Pope
+  - Joey
+- - RJ
+  - Striker
+- RJ
+- Ryan
+cop: Joey
+check:
+- Nydus
+- Garrinski
+medic: Striker
+save:
+- dLGN
+- QuibsY
+- RJ
+vigilante: Ramza
+shot:
+- NONE
+vanilla_town:
+- dLGN
+- Colin
+- Ryan
+- Guy
+- Nydus
+- Rollo
+- Garrinski
+- Pope
+- RJ
+lynched:
+- SLEEP
+- Colin
+- Demon
+- QuibsY
+- Ryuzilla
+f3_win:
+f3_loss:
+winner: Town
