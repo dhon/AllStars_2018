@@ -1,0 +1,40 @@
+id: 07/11/2018 G2
+mafia:
+- Kny
+- Plen
+- Steep
+kill:
+- - Guy
+  - Colin
+- Striker
+- Rollo
+cop: Pope
+check:
+- dLGN
+- Rollo
+- Steep
+medic: Guy
+save:
+- Striker
+vigilante: Jaleb
+shot:
+- NONE
+- NONE
+- Plen
+vanilla_town:
+- RJ
+- Ryuzilla
+- dLGN
+- Danny
+- Ringabel
+- Nat
+- Rollo
+- Striker
+- Colin
+lynched:
+- Kny
+- Danny
+- Steep
+f3_win:
+f3_loss:
+winner: Town
