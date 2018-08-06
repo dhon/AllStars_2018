@@ -1,66 +1,68 @@
 {
-    "id": "07/25/2018 G2",
-    "mafia": [
-      "dLGN",
-      "Nat",
-      "Striker"
+  "id": "07/25/2018 G2",
+  "mafia": [
+    "dLGN",
+    "Nat",
+    "Striker"
+  ],
+  "kill": [
+    [
+      "Siggywiggy",
+      "Colin"
     ],
-    "kill": [
-      [
-        "Siggywiggy",
-        "Colin"
-      ],
-      [
-        "Pope",
-        "RJ"
-      ],
-      "Ryuzilla",
-      "Rollo",
-      "Guy",
-      "Mal"
-    ],
-    "cop": "Ryuzilla",
-    "check": [
-      "Guy",
-      "Rollo",
-      "UNKNOWN"
-    ],
-    "medic": "Mal",
-    "save": [
-      "player",
-      "player"
-    ],
-    "vigilante": "Siggywiggy",
-    "shot": [
-      "NONE",
-      "NONE",
-      "player"
-    ],
-    "vanilla_town": [
-      "Colin",
-      "Fonti",
-      "Danny",
-      "Augi",
+    [
       "Pope",
-      "Ryan",
-      "RJ",
-      "Guy",
-      "Rollo"
+      "RJ"
     ],
-    "lynched": [
-      "Fonti",
-      "dLGN",
-      "Nat",
-      "Danny",
-      "SLEEP",
-      "SLEEP"
-    ],
-    "f3_win": [
-      "Striker"
-    ],
-    "f3_loss": [
-      "Ryan",
-      "Augi"
-    ],
-    "winner": "Mafia"
+    "Ryuzilla",
+    "Rollo",
+    "Guy",
+    "Mal"
+  ],
+  "cop": "Ryuzilla",
+  "check": [
+    "Guy",
+    "Rollo",
+    "Augi"
+  ],
+  "medic": "Mal",
+  "save": [
+    "Striker",
+    "Ryuzilla",
+    "Striker",
+    "Guy",
+    "Striker",
+    "Ryan"
+  ],
+  "vigilante": "Siggywiggy",
+  "shot": [
+    "NONE"
+  ],
+  "vanilla_town": [
+    "Colin",
+    "Fonti",
+    "Danny",
+    "Augi",
+    "Pope",
+    "Ryan",
+    "RJ",
+    "Guy",
+    "Rollo"
+  ],
+  "lynched": [
+    "Fonti",
+    "dLGN",
+    "Nat",
+    "Danny",
+    "SLEEP",
+    "SLEEP"
+  ],
+  "f3_win": [
+    "Striker"
+  ],
+  "f3_loss": [
+    "Ryan",
+    "Augi"
+  ],
+  "winner": "Mafia"
 }
