@@ -16,16 +16,18 @@ cop: Ryuzilla
 check:
 - Guy
 - Rollo
-- UNKNOWN
+- Augi
 medic: Mal
 save:
-- player
-- player
+- Striker #fake
+- Ryuzilla
+- Striker #fake
+- Guy
+- Striker #fake
+- Ryan
 vigilante: Siggywiggy
 shot:
 - NONE
-- NONE
-- player
 vanilla_town:
 - Colin
 - Fonti
