@@ -1,0 +1,48 @@
+id: 08/01/2018 G2
+mafia:
+- Augi
+- Rollo
+- Colin
+kill:
+- - Siggywiggy
+  - Jan
+- - Jan
+  - Guy
+- Mal
+- Ryuzilla
+- Pope
+cop: Ryuzilla
+check:
+- Mal
+- Augi
+- dLGN
+- Pope
+medic: Mal
+save:
+- Jan
+- Guy
+- Ryuzilla
+vigilante: Steve
+shot:
+- NONE
+- NONE
+- Tyler
+vanilla_town:
+- Jan
+- Tyler
+- Siggywiggy
+- dLGN
+- Striker
+- kny
+- Guy
+- Plen
+- Pope
+lynched:
+- Plen
+- Augi
+- Striker
+- Rollo
+- Colin
+f3_win:
+f3_loss:
+winner: Town

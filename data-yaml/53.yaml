@@ -1,0 +1,46 @@
+id: 07/25/2018 G1
+mafia:
+- Pope
+- Striker
+- Siggywiggy
+kill:
+- - Guy
+  - Ryuzilla
+- - Erik
+  - dLGN
+- Mal
+- Colin
+- Rollo
+cop: Mal
+check:
+- Ramza
+- Siggywiggy
+- Rollo
+medic: Guy
+save:
+- Rollo
+vigilante: Colin
+shot:
+- NONE
+- NONE
+- NONE
+- Jan
+vanilla_town:
+- Joey
+- Ryuzilla
+- Rollo
+- Jan
+- Fonti
+- dLGN
+- Erik
+- TJ
+- Ramza
+lynched:
+- SLEEP
+- Siggywiggy
+- Ramza
+- SLEEP
+- Joey
+f3_win:
+f3_loss:
+winner: Mafia
