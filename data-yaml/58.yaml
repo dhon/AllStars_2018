@@ -1,0 +1,51 @@
+id: 08/08/2018 G2
+mafia:
+- Colin
+- Pope
+- Rollo
+kill:
+- - Ghost 1
+  - dLGN
+- - Striker
+  - Guy
+- RJ
+- Tyler
+- Ocane
+cop: Pozzai
+check:
+- Ocane
+- Nat
+- Colin
+- Jaleb
+- Rollo
+medic: Nat
+save:
+- Striker
+- Ocane
+- Pozzai
+- Ryuzilla
+- Pozzai
+vigilante: Tyler
+shot:
+- NONE
+- NONE
+- Siggywiggy
+vanilla_town:
+- dLGN
+- Jaleb
+- Striker
+- Ryuzilla
+- Guy
+- RJ
+- Ocane
+- Siggywiggy
+- Ghost 1
+lynched:
+- SLEEP
+- Pope
+- SLEEP
+- Colin
+- Rollo
+f3_win:
+f3_loss:
+winner: Town
