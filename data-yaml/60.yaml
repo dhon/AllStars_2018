@@ -1,0 +1,47 @@
+id: 08/15/2018 G2
+mafia:
+- Watacolter
+- Striker
+- Rollo
+kill:
+- - RJ
+  - Jaleb
+- - Ryuzilla
+  - Garrinski
+- - Justice
+  - Justice
+- - Colin
+  - Steep
+cop: Justice
+check:
+- Ryuzilla
+- Garrinski
+- Siggywiggy
+medic: Colin
+save:
+- Rollo
+- Ryuzilla
+- Justice
+- Siggywiggy
+vigilante: Tyler
+shot:
+- NONE
+- NONE
+- David
+vanilla_town:
+- RJ
+- Jaleb
+- Steep
+- Ringabel
+- Siggywiggy
+- Ryuzilla
+- David
+- Bunnies
+- Garrinski
+lynched:
+- Bunnies
+- SLEEP
+- Ringabel
+f3_win:
+f3_loss:
+winner: Mafia

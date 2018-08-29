@@ -1,0 +1,48 @@
+id: 08/15/2018 G1
+mafia:
+- dLGN
+- Rollo
+- Joey
+kill:
+- - Ryuzilla
+  - Steep
+- - David
+  - David
+- - Garrinski
+  - Garrinski
+- Double A
+- Striker
+cop: David
+check:
+- dLGN
+- Siggywiggy
+medic: Colin
+save:
+- Rollo
+- Garrinski
+- Double A
+- dLGN
+vigilante: Garrinski
+shot:
+- NONE
+- NONE
+- Joey
+vanilla_town:
+- Ryuzilla
+- Steep
+- Double A
+- Siggywiggy
+- Striker
+- Erik
+- Quibsy
+- "5"
+- RJ
+lynched:
+- RJ
+- Erik
+- SLEEP
+- Colin
+- Siggywiggy
+f3_win:
+f3_loss:
+winner: Mafia

@@ -1,0 +1,63 @@
+{
+    "id": "08/22/2018 G1",
+    "mafia": [
+      "JennBo",
+      "Robik",
+      "Nat"
+    ],
+    "kill": [
+      [
+        "dLGN",
+        "Ghost 1"
+      ],
+      [
+        "Garrinski",
+        "Steep"
+      ],
+      [
+        "Tyler",
+        "Tyler"
+      ],
+      "Siggywiggy"
+    ],
+    "cop": "Tyler",
+    "check": [
+      "Colin",
+      "Siggywiggy",
+      "JennBo"
+    ],
+    "medic": "Striker",
+    "save": [
+      "Rollo",
+      "Nat",
+      "Tyler",
+      "Rollo"
+    ],
+    "vigilante": "Colin",
+    "shot": [
+      "NONE",
+      "NONE",
+      "NONE",
+      "JennBo"
+    ],
+    "vanilla_town": [
+      "Ryuzilla",
+      "Siggywiggy",
+      "Nydus",
+      "Steep",
+      "Striker",
+      "Garrinski",
+      "Rollo",
+      "RJ",
+      "dLGN"
+    ],
+    "lynched": [
+      "Nydus",
+      "Ryuzilla",
+      "Robik",
+      "Nat"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}
