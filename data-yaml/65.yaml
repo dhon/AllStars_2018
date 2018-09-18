@@ -1,0 +1,46 @@
+id: 09/05/2018 G1
+mafia:
+- Ryuzilla
+- Nydus
+- Rich
+kill:
+- - dLGN
+  - Striker
+- - Striker
+  - Rollo
+- - Double A
+  - Double A
+- - Colin
+  - Garrinski
+cop: Striker
+check:
+- Rollo
+- Ryuzilla
+medic: Dave Dob
+save:
+- Striker
+- Double A
+- Rich
+- Unctious
+vigilante: Double A
+shot:
+- NONE
+- NONE
+- QuibsY
+vanilla_town:
+- Colin
+- QuibsY
+- Unctious
+- Rollo
+- Greg
+- RJ
+- Garrinski
+- David
+- dLGN
+lynched:
+- SLEEP
+- David
+- Greg
+f3_win:
+f3_loss:
+winner: Mafia

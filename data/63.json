@@ -1,0 +1,52 @@
+{
+    "id": "08/29/2018 G1",
+    "mafia": [
+      "Striker",
+      "Colin",
+      "Joey"
+    ],
+    "kill": [
+      [
+        "Ramza",
+        "RJ"
+      ],
+      "Greg",
+      "Rollo",
+      "Pope"
+    ],
+    "cop": "Greg",
+    "check": [
+      "Rollo",
+      "Joey"
+    ],
+    "medic": "Rollo",
+    "save": [
+      "RJ",
+      "Pope",
+      "RJ"
+    ],
+    "vigilante": "Ramza",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Ryan",
+      "Robik",
+      "Plen",
+      "dLGN",
+      "Tyler",
+      "Steep",
+      "Ryuzilla",
+      "Pope",
+      "RJ"
+    ],
+    "lynched": [
+      "Colin",
+      "Joey",
+      "Plen",
+      "Striker"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

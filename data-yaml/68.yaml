@@ -1,0 +1,43 @@
+id: 09/12/2018 G2
+mafia:
+- Dave Dob
+- Garrinski
+- Shakespeare
+kill:
+- - Kevin
+  - dLGN
+- - dLGN
+  - Rollo
+- Striker
+- Rich
+cop: Striker
+check:
+- Nydus
+- Rollo
+- Ryuzilla
+medic: Plen
+save:
+- dLGN
+- Rich
+vigilante: Rich
+shot:
+- NONE
+- Plen
+vanilla_town:
+- dLGN
+- Ryuzilla
+- Colin
+- Jaleb
+- Jan
+- Rollo
+- "5"
+- Nydus
+- Kevin
+lynched:
+- SLEEP
+- Dave Dob
+- Garrinski
+- Shakespeare
+f3_win:
+f3_loss:
+winner: Town
