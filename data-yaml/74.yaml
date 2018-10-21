@@ -1,0 +1,40 @@
+id: 10/10/2018 G2
+mafia:
+- Kny
+- Tyler
+- Dave Dob
+kill:
+- - Rollo
+  - dLGN
+- David
+- Colin
+cop: Colin
+check:
+- Slip
+- Tyler
+- Striker
+medic: Rolfe
+save:
+- Colin
+- Ryuzilla
+- Colin
+vigilante: dLGN
+shot:
+- NONE
+vanilla_town:
+- Double A
+- Ryuzilla
+- Slip
+- Plen
+- Rich
+- Striker
+- Steep
+- Rollo
+- David
+lynched:
+- Dave Dob
+- Tyler
+- Kny
+f3_win:
+f3_loss:
+winner: Town

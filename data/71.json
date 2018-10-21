@@ -1,0 +1,57 @@
+{
+  "id": "09/26/2018 G1",
+  "mafia": [
+    "Rich",
+    "Striker",
+    "Jan"
+  ],
+  "kill": [
+    [
+      "Robik",
+      "dLGN"
+    ],
+    "Garrinski",
+    "Rollo",
+    "Nydus",
+    "RJ"
+  ],
+  "cop": "RJ",
+  "check": [
+    "Striker",
+    "Joey",
+    "Dave Dob",
+    "Nydus",
+    "Ryuzilla"
+  ],
+  "medic": "dLGN",
+  "save": [
+    "5"
+  ],
+  "vigilante": "Rollo",
+  "shot": [
+    "NONE",
+    "NONE",
+    "NONE"
+  ],
+  "vanilla_town": [
+    "Ryuzilla",
+    "Joey",
+    "Robik",
+    "Garrinski",
+    "5",
+    "Plen",
+    "Dave Dob",
+    "Colin",
+    "Nydus"
+  ],
+  "lynched": [
+    "Jan",
+    "Joey",
+    "SLEEP",
+    "Striker",
+    "Rich"
+  ],
+  "f3_win": null,
+  "f3_loss": null,
+  "winner": "Town"
+}

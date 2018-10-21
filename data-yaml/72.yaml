@@ -1,0 +1,47 @@
+id: 09/26/2018 G2
+mafia:
+- Rolfe
+- Garrinski
+- Colin
+kill:
+- - Ghost 1
+  - Plen
+- - Ryuzilla
+  - dLGN
+- - RJ
+  - Jan
+- Double A
+- Striker
+cop: Plen
+check:
+- Ryuzilla #fake
+medic: Striker
+save:
+- Ryuzilla
+- Jan
+- Double A
+- Colin
+- Rich
+vigilante: Jan
+shot:
+- NONE
+- Siggywiggy
+vanilla_town:
+- Ryuzilla
+- dLGN
+- Double A
+- Mice
+- Kevin
+- Rich
+- Siggywiggy
+- RJ
+- Ghost 1
+lynched:
+- SLEEP
+- SLEEP
+- Rolfe
+- SLEEP
+- Rich
+f3_win:
+f3_loss:
+winner: Mafia

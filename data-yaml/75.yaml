@@ -1,0 +1,47 @@
+id: 10/17/2018 G1
+mafia:
+- Dave Dob
+- Kevin
+- Mantichora
+kill:
+- - Ghost 1
+  - Colin
+- dLGN
+- Ryuzilla
+- Joey
+- Rollo
+- Ringabel
+cop: Ghost 1
+check:
+- Ryuzilla #fake
+medic: Colin
+save:
+- Robik
+vigilante: Joey
+shot:
+- NONE
+- NONE
+- NONE
+- Kevin
+vanilla_town:
+- Striker
+- Ryuzilla
+- RJ
+- dLGN
+- Ringabel
+- Plen
+- Rollo
+- Rich
+- Robik
+lynched:
+- Mantichora
+- RJ
+- Rich
+- Plen
+- Dave Dob
+f3_win:
+- Robik
+- Striker
+f3_loss:
+- Dave Dob
+winner: Town

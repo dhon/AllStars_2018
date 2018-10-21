@@ -1,0 +1,47 @@
+id: 09/19/2018 G1
+mafia:
+- Slip
+- Ramza
+- Striker
+kill:
+- - Siggywiggy
+  - Rollo
+- - Colin
+  - Nydus
+- dLGN
+- Jaleb
+- Rollo
+cop: dLGN
+check:
+- Striker
+- Nydus
+- Ryuzilla
+medic: Colin
+save:
+- Rollo
+- Jaleb
+vigilante: Jaleb
+shot:
+- NONE
+- NONE
+- NONE
+- Ryuzilla
+vanilla_town:
+- Joey
+- Rollo
+- Dave Dob
+- Greg
+- Ryuzilla
+- Nydus
+- Kevin
+- Siggywiggy
+- Rich
+lynched:
+- Rich
+- Striker
+- Ramza
+- SLEEP
+- Slip
+f3_win:
+f3_loss:
+winner: Town

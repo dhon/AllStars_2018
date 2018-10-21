@@ -1,0 +1,43 @@
+id: 10/17/2018 G2
+mafia:
+- Ryuzilla
+- Plen
+- Tommy
+kill:
+- - Robik
+  - Rollo
+- - Rollo
+  - Nydus
+- - Colin
+  - Colin
+- - Hank
+  - Tyler
+cop: Robik
+check:
+- Colin
+medic: Colin
+save:
+- Rollo
+- Plen
+- Dave Dob
+vigilante: Dave Dob
+shot:
+- NONE
+- Duke
+vanilla_town:
+- Rollo
+- Kevin
+- Duke
+- dLGN
+- Tyler
+- RJ
+- Rich
+- Hank
+- Nydus
+lynched:
+- SLEEP
+- RJ
+- Kevin
+f3_win:
+f3_loss:
+winner: Mafia

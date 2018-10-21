@@ -1,0 +1,69 @@
+{
+  "id": "09/19/2018 G2",
+  "mafia": [
+    "Ryuzilla",
+    "Plen",
+    "Striker"
+  ],
+  "kill": [
+    [
+      "Colin",
+      "Rich"
+    ],
+    [
+      "Rollo",
+      "Siggywiggy"
+    ],
+    [
+      "Tyler",
+      "Tyler"
+    ],
+    "Garrinski",
+    "Slip",
+    "Nydus"
+  ],
+  "cop": "Tyler",
+  "check": [
+    "Siggywiggy",
+    "Slip",
+    "Striker"
+  ],
+  "medic": "Garrinski",
+  "save": [
+    "Kevin",
+    "Slip",
+    "Tyler",
+    "Ryuzilla"
+  ],
+  "vigilante": "Rich",
+  "shot": [
+    "NONE"
+  ],
+  "vanilla_town": [
+    "Slip",
+    "Colin",
+    "Nydus",
+    "Jaleb",
+    "Kevin",
+    "Siggywiggy",
+    "Rollo",
+    "dLGN",
+    "Mice"
+  ],
+  "lynched": [
+    "Kevin",
+    "Mice",
+    "Plen",
+    "Striker",
+    "SLEEP",
+    "Jaleb"
+  ],
+  "f3_win": [
+    "Ryuzilla"
+  ],
+  "f3_loss": [
+    "dLGN",
+    "Jaleb"
+  ],
+  "winner": "Mafia"
+}

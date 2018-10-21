@@ -1,0 +1,67 @@
+{
+  "id": "10/10/2018 G1",
+  "mafia": [
+    "Ryuzilla",
+    "Jan",
+    "Steep"
+  ],
+  "kill": [
+    [
+      "Nydus",
+      "Double A"
+    ],
+    [
+      "Double A",
+      "Duke"
+    ],
+    "Rollo",
+    "Colin",
+    "dLGN",
+    "Siggywiggy"
+  ],
+  "cop": "Colin",
+  "check": [
+    "Jan",
+    "Rollo",
+    "dLGN",
+    "Steep"
+  ],
+  "medic": "Rollo",
+  "save": [
+    "Double A",
+    "Joey",
+    "Colin"
+  ],
+  "vigilante": "Siggywiggy",
+  "shot": [
+    "NONE",
+    "Joey"
+  ],
+  "vanilla_town": [
+    "dLGN",
+    "Nydus",
+    "Striker",
+    "Joey",
+    "David",
+    "Slip",
+    "Duke",
+    "Double A",
+    "Dave Dob"
+  ],
+  "lynched": [
+    "SLEEP",
+    "Jan",
+    "Striker",
+    "Steep",
+    "David",
+    "Ryuzilla"
+  ],
+  "f3_win": [
+    "Dave Dob",
+    "Slip"
+  ],
+  "f3_loss": [
+    "Ryuzilla"
+  ],
+  "winner": "Mafia"
+}
