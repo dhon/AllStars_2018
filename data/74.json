@@ -1,7 +1,7 @@
 {
   "id": "10/10/2018 G2",
   "mafia": [
-    "Kny",
+    "kny",
     "Tyler",
     "Dave Dob"
   ],
@@ -43,7 +43,7 @@
   "lynched": [
     "Dave Dob",
     "Tyler",
-    "Kny"
+    "kny"
   ],
   "f3_win": null,
   "f3_loss": null,

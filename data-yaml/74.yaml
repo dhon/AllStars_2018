@@ -1,6 +1,6 @@
 id: 10/10/2018 G2
 mafia:
-- Kny
+- kny
 - Tyler
 - Dave Dob
 kill:
@@ -34,7 +34,7 @@ vanilla_town:
 lynched:
 - Dave Dob
 - Tyler
-- Kny
+- kny
 f3_win:
 f3_loss:
 winner: Town
