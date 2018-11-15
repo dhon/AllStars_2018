@@ -1,0 +1,44 @@
+id: 11/07/2018 G2
+mafia:
+- Pope
+- Greg
+- Jaleb
+kill:
+- - Striker
+  - Slip
+- - Pat
+  - Slip
+- - Guy
+  - Ryuzilla
+- Siggywiggy
+cop: Striker
+check:
+- Rich
+medic: Siggywiggy
+save:
+- Slip
+- Pope
+- RJ
+- CJ
+vigilante: RJ
+shot:
+- NONE
+- Pope
+vanilla_town:
+- Rolfe
+- Slip
+- Pat
+- Guy
+- Ryuzilla
+- Hank
+- CJ
+- Rich
+- Kevin
+lynched:
+- Rolfe
+- SLEEP
+- Kevin
+- Hank
+f3_win:
+f3_loss:
+winner: Mafia

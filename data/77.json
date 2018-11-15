@@ -1,0 +1,59 @@
+{
+    "id": "10/24/2018 G1",
+    "mafia": [
+      "Joey",
+      "Double A",
+      "Rich"
+    ],
+    "kill": [
+      [
+        "Colin",
+        "RJ"
+      ],
+      "Rollo",
+      "Ramza",
+      "Kevin",
+      "Kevin"
+    ],
+    "cop": "Rollo",
+    "check": [
+      "dLGN",
+      "Mal"
+    ],
+    "medic": "Ryuzilla",
+    "save": [
+      "Joey",
+      "Garrinski",
+      "Double A",
+      "Kevin",
+      "Double A"
+    ],
+    "vigilante": "Kevin",
+    "shot": [
+      "NONE",
+      "NONE",
+      "NONE",
+      "Joey"
+    ],
+    "vanilla_town": [
+      "dLGN",
+      "Jaleb",
+      "Mal",
+      "RJ",
+      "Colin",
+      "Ramza",
+      "Plen",
+      "Garrinski",
+      "Dave Dob"
+    ],
+    "lynched": [
+      "Rich",
+      "dLGN",
+      "Dave Dob",
+      "Plen",
+      "Double A"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

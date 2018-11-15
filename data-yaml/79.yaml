@@ -1,0 +1,50 @@
+id: 10/31/2018 G1
+mafia:
+- dLGN
+- Ryan
+- Joey
+kill:
+- - Striker
+  - Rolfe
+- - RJ
+  - Ryuzilla
+- - Robik
+  - Robik
+- Pope
+- Rich
+cop: Robik
+check:
+- Pope
+- Garrinski
+- Ryan
+medic: Rolfe
+save:
+- Rich
+vigilante: Rich
+shot:
+- NONE
+- NONE
+- NONE
+- Ryan #check night
+vanilla_town:
+- Ryuzilla
+- Colin
+- RJ
+- Striker
+- Rollo
+- Pope
+- Garrinski
+- Greg
+- Pat
+lynched:
+- Colin
+- Rollo
+- dLGN
+- Greg
+- Pat
+f3_win:
+- Joey
+f3_loss:
+- Pat
+- Garrinski
+winner: Mafia

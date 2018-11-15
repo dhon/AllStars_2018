@@ -1,0 +1,46 @@
+id: 11/07/2018 G1
+mafia:
+- Kevin
+- Slip
+- Striker
+kill:
+- - Jan
+  - Colin
+- - Robik
+  - dLGN
+- - Pat
+  - Pat
+- Jaleb
+- Hank
+cop: Pat
+check:
+- dLGN
+- Hank
+- Striker
+medic: Colin
+save:
+- Striker
+vigilante: Jaleb
+shot:
+- NONE
+- NONE
+- Kevin
+vanilla_town:
+- Ryuzilla
+- Rolfe
+- Robik
+- dLGN
+- Rich
+- Jan
+- Ramza
+- Hank
+- Greg
+lynched:
+- SLEEP
+- Rich
+- Ramza
+- SLEEP
+- Rolfe
+f3_win:
+f3_loss:
+winner: Mafia
