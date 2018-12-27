@@ -1,0 +1,41 @@
+id: 12/12/2018 G1
+mafia:
+- Ramza
+- dLGN
+- Ryuzilla
+kill:
+- - RJ
+  - Rollo
+- - Colin
+  - Boone
+- - Wiggles
+  - Rolfe
+cop: Rollo
+check:
+- Ramza
+medic: Boone
+save:
+- Ryuzilla
+- Ramza
+vigilante: Rolfe
+shot:
+- NONE
+- NONE
+- Greg
+vanilla_town:
+- Greg
+- Colin
+- Kevin
+- Wiggles
+- Joey
+- Rich
+- RJ
+- Sam
+- Steep
+lynched:
+- Kevin
+- SLEEP
+- Rich
+f3_win:
+f3_loss:
+winner: Mafia

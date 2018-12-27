@@ -1,0 +1,49 @@
+id: 11/14/2018 G2
+mafia:
+- Striker
+- Garrinski
+- Kevin
+kill:
+- - dLGN
+  - Rolfe
+- - Rollo
+  - CJ
+- Ryuzilla
+- Slip
+- Pat
+- Duke
+cop: Ryuzilla
+check:
+- Pat
+- Slip
+- Kevin
+medic: dLGN
+save:
+- Ryuzilla
+vigilante: Rollo
+shot:
+- NONE
+- NONE
+vanilla_town:
+- Rob Alloy
+- Colin
+- Pat
+- RJ
+- Rich
+- Duke
+- Rolfe
+- Slip
+- CJ
+lynched:
+- SLEEP
+- Garrinski
+- Rich
+- Kevin
+- RJ
+- Rob Alloy
+f3_win:
+- Striker
+f3_loss:
+- Rob Alloy
+- Colin
+winner: Mafia

@@ -1,0 +1,43 @@
+id: 11/14/2018 G1
+mafia:
+- Ryuzilla
+- dLGN
+- Rob Alloy
+kill:
+- - Ghost 1
+  - Kevin
+- - Dave Dob
+  - Dave Dob
+- Garrinski
+- Slip
+cop: Dave Dob
+check:
+- Kevin
+- Joey
+medic: Kevin
+save:
+- Joey
+vigilante: Slip
+shot:
+- NONE
+- NONE
+- Colin
+vanilla_town:
+- Rollo
+- Rich
+- Garrinski
+- Striker
+- Ringabel
+- Rolfe
+- Colin
+- Joey
+- Ghost 1
+lynched:
+- Rich
+- Rob Alloy
+- SLEEP
+- Joey
+- Striker
+f3_win:
+f3_loss:
+winner: Mafia

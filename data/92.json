@@ -1,0 +1,61 @@
+{
+    "id": "12/19/2018 G2",
+    "mafia": [
+      "Rich",
+      "Nydus",
+      "Jan"
+    ],
+    "kill": [
+      [
+        "Steep",
+        "dLGN"
+      ],
+      [
+        "Rollo",
+        "Vanity"
+      ],
+      [
+        "Jaleb",
+        "Jaleb"
+      ],
+      [
+        "Greg",
+        "Colin"
+      ]
+    ],
+    "cop": "Steep",
+    "check": [
+      "RJ"
+    ],
+    "medic": "Greg",
+    "save": [
+      "Nydus",
+      "Colin",
+      "Jan",
+      "Nydus"
+    ],
+    "vigilante": "Vanity",
+    "shot": [
+      "NONE",
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Rollo",
+      "Ryuzilla",
+      "Colin",
+      "dLGN",
+      "Wiggles",
+      "RJ",
+      "Ringabel",
+      "Jaleb",
+      "Rob Alloy"
+    ],
+    "lynched": [
+      "Rob Alloy",
+      "RJ",
+      "SLEEP"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Mafia"
+}

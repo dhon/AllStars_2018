@@ -1,0 +1,54 @@
+id: 12/05/2018 G2
+mafia:
+- Rich
+- Striker
+- Pope
+kill:
+- - Plen
+  - Garrinski
+- - Ryuzilla
+  - Ryuzilla
+- - dLGN
+  - dLGN
+- Rob Alloy
+- Duke
+- Rollo
+- Colin
+cop: dLGN
+check:
+- Duke
+- Rollo
+- Ringabel
+medic: Rob Alloy
+save:
+- Pope
+- Oracle
+- dLGN
+- Oracle
+vigilante: Plen
+shot:
+- NONE
+vanilla_town:
+- Colin
+- Ryuzilla
+- Garrinski
+- Kevin
+- Rollo
+- Oracle
+- Vanity
+- Duke
+- Ringabel
+lynched:
+- Kevin
+- SLEEP
+- Rich
+- SLEEP
+- Striker
+- Ringabel
+- Pope
+f3_win:
+- Oracle
+- Vanity
+f3_loss:
+- Pope
+winner: Town

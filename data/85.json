@@ -1,0 +1,70 @@
+{
+    "id": "11/28/2018 G1",
+    "mafia": [
+      "Hide",
+      "Kevin",
+      "Ryuzilla"
+    ],
+    "kill": [
+      [
+        "RJ",
+        "Rollo"
+      ],
+      [
+        "Pope",
+        "dLGN"
+      ],
+      "dLGN",
+      "Colin",
+      "Colin",
+      "CJ",
+      "Ramza"
+    ],
+    "cop": "Striker",
+    "check": [
+      "Sam",
+      "Ramza",
+      "Colin"
+    ],
+    "medic": "CJ",
+    "save": [
+      "Colin",
+      "dLGN",
+      "Ryuzilla",
+      "Colin",
+      "Kevin",
+      "Rich"
+    ],
+    "vigilante": "RJ",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Colin",
+      "dLGN",
+      "Watacolter",
+      "Pope",
+      "Rich",
+      "Benji",
+      "Rollo",
+      "Ramza",
+      "Sam"
+    ],
+    "lynched": [
+      "Benji",
+      "Hide",
+      "Striker",
+      "Sam",
+      "SLEEP",
+      "Kevin",
+      "Ryuzilla"
+    ],
+    "f3_win": [
+      "Watacolter",
+      "Rich"
+    ],
+    "f3_loss": [
+      "Ryuzilla"
+    ],
+    "winner": "Town"
+}

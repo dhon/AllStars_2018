@@ -1,0 +1,61 @@
+{
+    "id": "12/19/2018 G1",
+    "mafia": [
+      "Rich",
+      "dLGN",
+      "Jan"
+    ],
+    "kill": [
+      [
+        "Robik",
+        "Ramza"
+      ],
+      [
+        "Wiggles",
+        "Ryuzilla"
+      ],
+      "Duke",
+      "Steep",
+      "Colin"
+    ],
+    "cop": "Rollo",
+    "check": [
+      "Wiggles",
+      "Duke",
+      "dLGN",
+      "Colin",
+      "Joey"
+    ],
+    "medic": "Steep",
+    "save": [
+      "Colin",
+      "Cron",
+      "Duke",
+      "Rollo"
+    ],
+    "vigilante": "Ramza",
+    "shot": [
+      "NONE"
+    ],
+    "vanilla_town": [
+      "Ryuzilla",
+      "Wiggles",
+      "Joey",
+      "Colin",
+      "Robik",
+      "Nydus",
+      "Cron",
+      "Duke",
+      "Demon"
+    ],
+    "lynched": [
+      "Demon",
+      "Rich",
+      "dLGN",
+      "Cron",
+      "Jan"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}

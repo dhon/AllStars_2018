@@ -1,0 +1,43 @@
+id: 12/05/2018 G1
+mafia:
+- Pope
+- RJ
+- Robik
+kill:
+- - Oracle
+  - Colin
+- - dLGN
+  - Ryuzilla
+- - Ryuzilla
+  - Ryuzilla
+- - Rollo
+  - Rollo
+cop: Colin
+check:
+- Plen
+medic: dLGN
+save:
+- Ramza
+- Ryuzilla
+vigilante: Rollo
+shot:
+- NONE
+- NONE
+- Dave Dob
+vanilla_town:
+- Plen
+- Ryuzilla
+- Ramza
+- Dave Dob
+- QuibsY
+- Striker
+- Oracle
+- Garrinski
+- Rich
+lynched:
+- Rich
+- QuibsY
+- Striker
+f3_win:
+f3_loss:
+winner: Mafia

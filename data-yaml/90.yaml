@@ -1,0 +1,47 @@
+id: 12/12/2018 G2
+mafia:
+- Tyler
+- Steep
+- Rolfe
+kill:
+- - dLGN
+  - Rich
+- - dLGN
+  - Ringabel
+- - Greg
+  - Greg
+- - Wiggles
+  - Nydus
+cop: Greg
+check:
+- Nydus
+- Wiggles
+- Rollo
+medic: Nydus
+save:
+- dLGN
+- Greg
+- Rolfe
+- Rollo
+vigilante: Rollo
+shot:
+- NONE
+- NONE
+- Vanity #when
+vanilla_town:
+- Colin
+- Ryuzilla
+- Wiggles
+- Vanity
+- dLGN
+- Duke
+- Rich
+- Kevin
+- Ringabel
+lynched:
+- SLEEP
+- Kevin
+- Duke
+f3_win:
+f3_loss:
+winner: Mafia

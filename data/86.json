@@ -1,0 +1,58 @@
+{
+    "id": "11/28/2018 G2",
+    "mafia": [
+      "Oracle",
+      "Benji",
+      "Colin"
+    ],
+    "kill": [
+      [
+        "Ryuzilla",
+        "Rich"
+      ],
+      "Striker",
+      "Kevin",
+      "Peg"
+    ],
+    "cop": "Rolfe",
+    "check": [
+      "Oracle",
+      "Plen",
+      "Colin",
+      "Benji"
+    ],
+    "medic": "Peg",
+    "save": [
+      "Siggywiggy",
+      "Ringabel",
+      "dLGN",
+      "Rolfe"
+    ],
+    "vigilante": "Ringabel",
+    "shot": [
+      "NONE",
+      "NONE",
+      "NONE",
+      "NONE"
+    ],
+    "vanilla_town": [
+      "dLGN",
+      "Ryuzilla",
+      "Plen",
+      "Striker",
+      "Siggywiggy",
+      "Rob Alloy",
+      "Rich",
+      "Rollo",
+      "Kevin"
+    ],
+    "lynched": [
+      "Oracle",
+      "SLEEP",
+      "Colin",
+      "Benji"
+    ],
+    "f3_win": null,
+    "f3_loss": null,
+    "winner": "Town"
+}
